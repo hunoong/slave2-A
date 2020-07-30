@@ -2,4 +2,4 @@
 
 ## Group Activity
 
-![](images/filename week01_group_work.png)
+![](images/filename%20week01_group_work.png)
