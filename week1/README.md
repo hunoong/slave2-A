@@ -28,7 +28,8 @@ For mine, I didn't go out of the paper as I kind of feel secure in it, but I saw
 Also, it's kind of nice to see a messy red lines of mine in the bottom centre as I didn't think carefully(it was because of my misunderstanding of rules)enough and later on, I realised it and I modified it on top of it. So it does look a bit messy, but I like how it looks as it shows my ~~missunderstanding~~ attempts.
 
 ## Hunt&Gather
-"Try to follow any of the leads that you want to follow up on"<br/>
+***"Try to follow any of the leads that you want to follow up on"***<br/>
+
 **[MOVIEBARCODE]**(https://moviebarcode.tumblr.com/page/10)<br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/STAR%20WARS_%20EPISODE%20VIII%20-%20THE%20LAST%20JEDI%20(2017).jpg" width="600" /> <br/>
 *//Star Wars : Episode 20 VIII - The Last Jedi(2017)*<br/>
