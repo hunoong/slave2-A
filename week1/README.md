@@ -9,7 +9,7 @@ So today we started to look at the terms what Parametric & Generative design is 
 I wasn't that sure about the terms and I thought it would be better to understand it as much as I can.
 The Wikipedia says :
 Generative design is an iterative design process that involves a program that will generate a certain number of outputs that meet certain constraints, and a designer that will fine tune the feasible region *(=the area that possible to do sth easily? 실행가능한 영역)* by changing minimal and maximal values(값) of an interval in which a variable *(=변수?)* of the program meets the set of constraints, in order to reduce or increase the number of outputs to choose from.
-
+<img src="real-time-generative-design-drives-innovation-topology-optimization-bracket.jpg" width="350" />
 
 ## Group Activity
 text goes here <br/>
