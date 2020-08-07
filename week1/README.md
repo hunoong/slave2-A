@@ -22,7 +22,7 @@ During the class, I was pretty fascinated how our daily lives heavily rely on ou
 ## Group Activity
 We divided into small groups and did some 'Parametric Drawing'.<br/>
 Our group set up rules by using different dice.<br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/week01_dice_rules.jpg" width="500" /> <br/>
+<img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/week01_dice_rules.jpg" width="250" /> <br/>
 
 ![week01_group_work](https://user-images.githubusercontent.com/68723248/88918545-f7b0fa00-d2ac-11ea-8366-ea64abe1795b.png)
 
