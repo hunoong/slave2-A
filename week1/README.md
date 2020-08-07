@@ -1,4 +1,6 @@
-# Week 01 [24.07.20] Introduction 
+# Week 01 [24.07.20] 
+## Introduction 
+So today 
 
 ## Group Activity
 text goes here <br/>
