@@ -38,5 +38,5 @@ Also, it's kind of nice to see a messy red lines of mine in the bottom centre as
 <img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/thegooddinosaur(2015).jpg" width="600" /> <br/>
 *//The Good Dinosaur(2015)*<br/>
 
-I was so fascinated by of them. This webpage is not only aesthethic but also shows how each films has their own colours as representative.
+I was so fascinated by them. This webpage is not only aesthethic but also shows how each films has their own colours as representative.
 
