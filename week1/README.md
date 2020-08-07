@@ -9,8 +9,8 @@ So today we started to look at the terms what Parametric & Generative design is 
 ###### I wasn't that sure about the terms and I thought it would be better to understand it as much as I can. So I looked up a bit more. <br/>
 The Wikipedia says :<br/>
 Generative design is an iterative design process that involves a program that will generate a certain number of outputs that meet certain constraints, and a designer that will fine tune the feasible region *(=the area that possible to do sth easily? 실행가능한 영역)* by changing minimal and maximal values(값) of an interval in which a variable *(=변수?)* of the program meets the set of constraints, in order to reduce or increase the number of outputs to choose from. <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/real-time-generative-design-drives-innovation-topology-optimization-bracket.jpg?raw=true" width="500" /> <br/>
-*// Image src : [Real-Time Generative Design Drives Innovation by Justin Hendrickson](https://www.ansys.com/blog/real-time-generative-design-drives-innovation).*
+<img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/MHOX's_Vidiam_mask.jpg" width="500" /> <br/>
+*// Image src : [MHOX’s Vidiam mask](https://www.commarts.com/columns/generative-design-redefining-the-designer).*
 
 Parametric design is a process based on algorithmic thinking that enables the expression of parameters *(=규정 요인?)* and rules that, together, define, encode and clarify the relationship between design intent and design response.
 <img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/parametric_samples.jpg" width="500" /> <br/>
@@ -28,4 +28,5 @@ For mine, I didn't go out of the paper as I kind of feel secure in it, but I saw
 Also, it's kind of nice to see a messy red lines of mine in the bottom centre as I didn't think carefully(it was because of my misunderstanding of rules)enough and later on, I realised it and I modified it on top of it. So it does look a bit messy, but I like how it looks as it shows my ~~missunderstanding~~ attempts.
 
 ## Hunt&Gather
-The lead that I want to follow up on 
+"Try to follow any of the leads that you want to follow up on"
+
