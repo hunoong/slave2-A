@@ -1,3 +1,3 @@
 # slave-to-algorithm
 ## My name is
-# Hun
+# Hun [hən]
