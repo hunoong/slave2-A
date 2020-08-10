@@ -30,7 +30,7 @@ Also, it's kind of nice to see a messy red lines of mine in the bottom centre as
 ## Hunt&Gather
 ***"Try to follow any of the leads that you want to follow up on"***<br/>
 
-**[MOVIEBARCODE]**(https://moviebarcode.tumblr.com/page/10)<br/>
+**[MOVIEBARCODE](https://moviebarcode.tumblr.com/page/10)** <br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/STAR%20WARS_%20EPISODE%20VIII%20-%20THE%20LAST%20JEDI%20(2017).jpg" width="600" /> <br/>
 *//Star Wars : Episode 20 VIII - The Last Jedi(2017)*<br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/week1/images/Purplerain(1984).jpg" width="600" /> <br/>
