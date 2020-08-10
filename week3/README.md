@@ -1,10 +1,16 @@
 
 # Week 03 [07.08.20] 
-## Title
+## Homework - Case study
+Text goes here
 
+## Summary of week 3
+Text goes here
 
+## Class Activity
+Text goes here
 
-## Group Activity
+## Group Discussion
+Text goes here
 
-
-## H
+## Wrapping up
+Text goes here
