@@ -1,7 +1,7 @@
 # Week 02 [31.07.20] 
 
 ## 12hrs Challenge
-
+Text goes here
 
 ## Summary of week 2
 Today we went trough a bunch of artists from 백남준 *(Nam June Paik/ we talked about him at the start of the class for a bit)* to Raven Kwok.<br/>
@@ -16,6 +16,7 @@ Among them, for me ***Manfred Mohr*** was quite impressive as he was a painter, 
 And this reminded me of ***[James Nolan Gandy](https://instagram.com/gandyworks?igshid=1aunivtu21u7l)***, a drawing machinist. In terms of 'Human-machine collaboration', I think they are similar to some extend, as James also seems like taking machines' decisions as well. I mean, everything's probably based on the artist's thought and decisions(like, specific machine set ups on purpose?), but still seem like they are "collaborating".
 
 ## Processing Workshop & Remixing
-
+Text goes here
 
 ## Group Discussion
+Text goes here
