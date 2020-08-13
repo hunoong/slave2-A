@@ -6,7 +6,7 @@ Text goes here
 ## Summary of week 3
 Text goes here
 
-## Class Activity
+## Nonhuman Markmaking
 Text goes here
 
 ## Group Discussion
