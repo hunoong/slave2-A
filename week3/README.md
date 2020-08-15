@@ -1,7 +1,5 @@
 
 # Week 03 [07.08.20] 
-## Homework - Case study
-Text goes here
 
 ## Summary of week 3
 Text goes here
