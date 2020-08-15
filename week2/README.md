@@ -18,7 +18,8 @@ And this reminded me of ***[James Nolan Gandy](https://instagram.com/gandyworks?
 ## Processing Workshop 01 & Remixing
 Text goes here
 
-## Group Discussion
+## Group Discussion - inputs & outputs
 Text goes here
 
 ## Extra Research
+about terms and processing
