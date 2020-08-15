@@ -3,7 +3,7 @@
 ## Case Study
 Text goes here
 
-## Processing Workshop 
+## Processing Workshop 02
 **Adding photo**
 
 **Adding texts**
