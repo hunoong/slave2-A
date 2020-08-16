@@ -8,7 +8,7 @@ Text goes here
 Text goes here
 
 ## Group Discussion
-Text goes here
+Inputs and Outputs + adding 'Processes' (+frisbee
 
 ## Wrapping up
 Text goes here
