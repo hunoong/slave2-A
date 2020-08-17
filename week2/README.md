@@ -32,9 +32,14 @@ In terms of 'Human-machine collaboration', I think they are similar to some exte
 
 ## Processing Workshop 01 & Remixing
 Text goes here
+Tools - Movie Maker
+
+<img src=https://github.com/hunoong/slave2-A/blob/master/Images/processing_workshop.png width="700" /> <br/>
+*// Bottom left image originally done by Yerim Kim & remixed by me* <br/>                                                 
 
 ## Group Discussion - inputs & outputs
-Text goes here
+Text goes here <br/>
+<img src=https://github.com/hunoong/slave2-A/blob/master/Images/week02_in%26out.png width="700" /> <br/>
 
 ## Extra Research
 about terms and processing
