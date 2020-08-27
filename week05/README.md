@@ -12,4 +12,8 @@ At the same time,**<*the correlation between emotion and brain waves*>** was inv
 During the presentation, I watched and listened to other classmates' contents and felt that mine was a little different and something was lacking. Of course, it was good to see various unique ideas from them. <br/>
 So I personally asked Karen for feedback after class and she answered kindly. <br/>
 
-**Here's the feedback I got:**
+## **Here's the feedback I got:**
+text goes here
+
+## Inspiration of the week
+text goes here
