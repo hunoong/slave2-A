@@ -13,8 +13,8 @@ So the point of this is ***to quickly ideate/generates a concept that will becom
 We will focus on the papers first and then we will see how to move from a paper prototype to pseudo-code and it eventually be able to interpret as a code later.
 
 ## Group Work
-Chae, Yasmin and I became a group. We turned our camera on(unfortunately, Chae's cam didn't work) to see each others' process.
-Our selected game was *'Sonic & Knuckles + Sonic the Hedgehog 3'*. The tumbnail image of the game was a *bonus stage*, and it looked interesting so I suggested it to our group for our modeling.
+Chae, Yasmin and I became a group. We turned our camera on(unfortunately, Chae's cam didn't work) to see each others' process.<br/>
+Our selected game was *'Sonic & Knuckles + Sonic the Hedgehog 3'*. The tumbnail image of the game was a *bonus stage*, and it looked interesting so I suggested it to our group for our modeling.<br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/Sonic%20%26%20Knuckles%20%2B%20Sonic%20the%20Hedgehog%203%20(World).png" width="500" /> <br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/wip_paper_mockup_in_class.png" width="500" /> <br/>
 <br/>
