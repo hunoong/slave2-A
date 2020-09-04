@@ -29,7 +29,7 @@ Also , I found that if the size(pixels) of the photo is not even number, the pho
 
 
 ###### Intereting notes
-Karen mentioned that scientifically your coding memory will last only for 25 hrs. So don't think my coding memory lasts longer because later when you see the examples or sketches you made, you won't quite get them directly.
+- Karen mentioned that scientifically your coding memory will last only for 25 hrs. So don't think my coding memory lasts longer because later when you see the examples or sketches you made, you won't quite get them directly.
 
 ## Group Discussion - Your Pitch
 Text goes here
