@@ -17,17 +17,29 @@ In this course, one of my assignments was 'Drawing with matter and turbulence'. 
 So I decided to use the wind, my laundry rack and some makers with strings to create some drawing out of the wind. <br/>
 However, the weather was pretty calm today and couldn't create drawings that I wanted to. But still the process was enjoyable. <br/>
 
-**(2) 'Me' as a humman-force**
+**(2) 'Me' as a humman-force** <br/>
 I was inspired by 'Kinetograph', one of the case studies in the slide by Sage Dawson. By wearing her machine and walking around, she creates some interesting paintings out of it. I also wanted to create some works by using my body movement, so I tried to find some objects that can move easily - a sticky lint roller.
 I then attached a paper and brushes to it. And then I tied that machine around my waist and walked around. However, as the acrylic paints that I use was a little bit thick and the brush was a little bit heavy, I counldn't create interesting outcomes as I wanted to.
 
-**(3) Using the fridge**
+**(3) Using the fridge** <br/>
 This one came out as the best among three approaches. I came up with this idea at the start of the case study slides though, during the class 'using fridge to create a painting' mentioned already so I didn't want to do it. But as previous two attempts didn't come out as nicely as I wanted so I decided to give it a shot. Even though it was the last try and kind of improvising attempt, it came out pretty intresting as I liked how it worked with the amount of force I put.<br/>
 It was very interesting that there were several dots on the paper. And I realised those pools of 'ink form' represent my 'lunch decision making' as they were created where I paused when I try to make up my mind what to eat. <br/>
 
 
 ## Group Discussion
-Inputs and Outputs + adding 'Processes' (+frisbee
+We divided into groups and asked to fill the *'Processes*' in the <*Inputs and Outputs> sheet*. <br/>
+It was a bit confusing to put processes to it as some inputs and outputs are not that connecting, but it was nice to think about the possibilities.<br/>
+<br/>
+I think our group spent the most time on thinking about the process for the *'Output - Shooting Frisbee'*. <br/>
+The input that already in was *'Co-ordinates'*. We struggled to think about the process that we need. I think later we came up with *'Frisbee thowing machine' and 'Catapult'* for the process but, while we were discussing about what to put, I thought it would be much better if we switch the output and input(which doesn't really make sense though). So decided to talk about my thought even if it will be rejected by memebers. And it got rejected! <br/>
+But I still think that it's good to see a different point of view(like a reversed view) when you stuck with something even though it may not fit to the current rule or something.
+
+Later, ***Andy*** jumped in for feedback. <br/>
+I think we got some interesting feedback from him so I wrote it down. 
+He says there are people who are more like 'problem solvers' or 'problem finders'. It'd be nice if we can find a better problem one that suits us. And also he mentioned about one of the risks that we can get which is you lock in your ideas and stop being experimental. So when you lock something in relly quick, you will miss out some potential(= Happy accidents) oppurtunities in the process. <br/>
+By doing these <Inputs and outputs>, it asked you to see that everything you do is a prism which pushes out lots of different lights. By adding ideas and thinking about it, you will have an oppurtunity to get various possibilities from that one pitch. 
+
 
 ## Wrapping up
 Text goes here
+
