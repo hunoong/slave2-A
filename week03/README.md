@@ -5,9 +5,12 @@
 This week, we explored a bunch of case studies in related to ways of systems that give something else the power to make the decision for you. <br/>
 
 During the class, Louis asked how important is the performer on ***'Drawing Machine #1' by Josheph Griffiths*** and got some interesting answers back from Andy and Karen. They said that human being(body) is working as *a performer* at the same time *co-creator* and *operator.* So basically, the machine will do nothing untill human activates it. By activating it, this collaboration work will create some synergy which makes this work interesting. 
-
+<br/>
+<br/>
 ## Unplugged Activity : Nonhuman Markmaking
-If the processing workshop we did last week was an intense activity, this unplugged one hour activity during the lunch break was very relaxing in a way because I made my own physical things with my hands that I can directly see the progress. To create these 'semi-autonomous nonhuman mark-making machines', I firstly had to think about some kind of force or repetitive activities that I can use for my machine. I came up with several ideas and initially, I wanted to make four different painting pieces and combine them all together at the end to create one big painting. But it wasn't quite working. <br/>
+If the processing workshop we did last week was an intense activity, this unplugged one hour activity during the lunch break was very relaxing in a way because I made my own physical things with my hands that I can directly see the progress.<br/>
+
+To create these 'semi-autonomous nonhuman mark-making machines', I firstly had to think about some kind of force or repetitive activities that I can use for my machine. I came up with several ideas. And initially, I wanted to make four different painting pieces and combine them all together at the end to create one big painting. But it wasn't quite working. <br/>
 So I ended up creating three different artpieces : 1) Using natural phenomena, 2) Me as a human force and 3) Using the fridge. <br/>
 <br/>
 
