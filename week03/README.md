@@ -39,7 +39,13 @@ I think we got some interesting feedback from him so I wrote it down.
 He says there are people who are more like 'problem solvers' or 'problem finders'. It'd be nice if we can find a better problem one that suits us. And also he mentioned about one of the risks that we can get which is you lock in your ideas and stop being experimental. So when you lock something in relly quick, you will miss out some potential(= Happy accidents) oppurtunities in the process. <br/>
 By doing these <Inputs and outputs>, it asked you to see that everything you do is a prism which pushes out lots of different lights. By adding ideas and thinking about it, you will have an oppurtunity to get various possibilities from that one pitch. 
 
+Later, ***Karen*** jumped in for feedback.<br/>
+I shared my current pitch ideas. I came up an idea of 'The image of self-objectification'. <br/>
+I wanted to visualise my personal data about my procrastination time and focusing time that I have been recording. So by using this personal data, I wanted to create some kind of 'Smart lamps' that support you by brighten up your place depending on your focusing time. <br/>
+
+Karen gave me an advice to think a little bit larger and one step away from my personal data. Such as an architecture intervention or even interior design concept related to mind waves to assist you to acheive your goals. <br/>
+
 
 ## Wrapping up
-Text goes here
+Andy and Karen suggested to come up with dozens of ideas and then try them out first rather than think just one solution. This is because it is much easier to know how you feel about something than how you think about something. 
 
