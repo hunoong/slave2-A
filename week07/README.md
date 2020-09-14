@@ -114,5 +114,5 @@ It was just interesting that I'm taking this studio and learning how to code, an
 
 From [Drawphone](https://github.com/tannerkrewson/drawphone) <br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/drawphone.jpg" width="800" /> <br/>
-It was funny how peanuts that I drew became 'illegal organ extraction'<br/>
+It was funny how 'peanuts' that I drew became 'illegal organ extraction' and 'brain' became 'Dwayne Johnson'.<br/>
 <br/>
