@@ -15,7 +15,7 @@ I decided to go with this idea as watching the birds brought me joy as I already
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/IMG_3924.PNG" width="800" /> <br/>
 This is the process that I'm currently thinking of.<br/>
 
-***And following gifs are the possible outcome***
+***And following gifs are the possible outcomes***
 <img src="https://github.com/hunoong/slave2-A/blob/master/gifs/IMG_3922.GIF" width="800" /> <br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/gifs/IMG_3921.GIF" width="800" /> <br/>
 ###### The user can watch the live painting in real time and capture and download the painting whenever they want. <br/>
@@ -25,10 +25,12 @@ Also it would be nice to consider working on stokes, gestures and mediums that t
 But for this stage of experiment, I will use my Mac webcam. <br/>
 Also, for my back-up plan, if I end up behind schedule, then I think I might make a series of artworks as a backup instead using the Web-live drawing in real time. <br/>
 <br/>
+
 ## Paper Mock ups
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/paper_mockup01.png" width="400" /><img src="https://github.com/hunoong/slave2-A/blob/master/gifs/paper_mockup03.png" width="400" /> <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/paper_mockup02.png" width="400" /><img src="https://github.com/hunoong/slave2-A/blob/master/gifs/paper_mockup04.png" width="400" />
+<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/paper_mockup02.png" width="400" /><img src="https://github.com/hunoong/slave2-A/blob/master/gifs/paper_mockup04.png" width="400" /> <br/>
 Some paper mockups for my project. <br/>
+<br/>
 
 ## Processing Workshop #4 - Wiggly Letters
 Today we had another workshop. We learned how to make wiggly letters. <br/>
@@ -39,6 +41,7 @@ Today we had another workshop. We learned how to make wiggly letters. <br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/workshop_wiggly_code02.png" width="800" /><br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/workshop_wiggly_code03.png" width="800" /><br/>
 <br/>
+
 
 ## Pseudocode
 Also we did how to make ***Pseudocode*** and this is in class Pseudocode of mine. <br/>
@@ -95,12 +98,15 @@ Stroke(random texture) by Frame per Distance**<br/>
 **END IF no movement**<br/>
 <br/>
 
+
 ## Extra findings in life
 **An interesting glitch in class. <br/>**
-There was a connection issue and that connection issue made some interesting visuals. <br/>
+There was a connection issue and that connection issue made some interesting visual. <br/>
+It made the workshop look more like "codes" in a way..<br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/workshop_interesting%20scene(glitch).png" width="800" /> <br/>
 <br/>
-**An interesting glitch in class. <br/>**
+
+**Drawphone <br/>**
 This week, I got invited to a game called 'Drawphone' from my Korean-Australian friends. <br/>
 When I clicked the link, I was surprised as the game was from Github.<br/>
 It was fascinated to acknowledge again that the coding is everywhere in our life. <br/>
