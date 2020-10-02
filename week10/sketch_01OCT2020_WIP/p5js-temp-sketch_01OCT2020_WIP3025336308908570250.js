@@ -28,7 +28,7 @@ function setup() {
   //slider = createSlider(0,255,0,1);
   //slider.position(100,height+150);
   button = createButton('snap');
-  button.mousePressed(save); //:?? how can I save only the left canvas??
+  button.mousePressed(save); //:?? how can I save the left canvas only?
   button.position(30,120);
   //button.position(slider.x+200,slider.y);
   
@@ -56,7 +56,7 @@ function draw() {
   //image(video, 0,100,pgleft.width,pgleft.width/4*3);  // : this is working
   //image(video, 0,100,width,width/4*3); // : this isn't working
   //image(video,width/2,100,pgright.width,pgright.width/4*3); //: final one with 100 top margin
-  image(video,width/2,0,400,300);
+  image(video,width/2,0,200,150);
   
 //---------------
   if (detections) {
