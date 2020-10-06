@@ -56,7 +56,7 @@ function draw() {
   //image(video, 0,100,pgleft.width,pgleft.width/4*3);  // : this is working
   //image(video, 0,100,width,width/4*3); // : this isn't working
   //image(video,width/2,100,pgright.width,pgright.width/4*3); //: final one with 100 top margin
-  image(video,width/2,0,200,150);
+  image(video,width/2,0,400,300);
   
 //---------------
   if (detections) {
@@ -74,7 +74,7 @@ function draw() {
       // strokeWeight(3); //ORIGINAL ONE
       
 ////--<BRUSH 01>
-      if(detection.label === 'person'){  
+      if(detection.label === 'bird'){  
         noStroke(); 
         fill(255,196,0);
         ellipse(detection.x+detection.width/2,detection.y+detection.height/2,20,20);
