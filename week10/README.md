@@ -1,5 +1,5 @@
 # Week 10 [02.10.20]
-## Current Stage - WIP screenshot
+## Current Stage - WIP screenshot (Code Sketch is in the Sketch folder)
 <img src="https://github.com/hunoong/slave2-A/blob/master/week10/work_in_progress_screenshot.png" width="800" /> <br/>
 
 ## Interesting Findings 01 - Birthday Pseudocode
