@@ -1,5 +1,5 @@
 # Week 11 [09.10.20] 
-## Current Stage - during the week experiment
+## Current Stage - Experiment of the week
 During the week, I wanted to test out some birds feeding experiments. <br/>
 <br/>
 When I was struggling to improve the quality of detection camera the other day as the detector couldn't track the birds well in a far distance, a dove came to my balcony and I saw it resting on the fence.
@@ -17,8 +17,15 @@ I made them frightened several times before, so I don't think I can track them a
 
 
 
-## Interesting Foundings
+## Interesting Foundings 01
 During my painting elective class, 
 
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/so%20le%20witt.png" width="785" /> <br/>
 // *[So Le Witt - Google search](https://www.google.com/search?q=so+le+witt&rlz=1C5CHFA_enAU894AU894&sxsrf=ALeKk01gIi0uPnunNUWnQy9fq2LIqGt1lw:1601858450856&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR_8Xfm5zsAhVKeX0KHTsFCskQ_AUoAXoECBYQAw&biw=2048&bih=1018)*
+
+## Interesting Foundings 02
+On the 6th, my sister gave a birth to her child, Layla and I became an uncle! <br/>
+Next day, she wanted me to search about day counting apps or ways to show the day counts on iPhone. <br/>
+So I looked it up, and I found that you can customise your day counts with the Apple app 'Shorcuts'.<br/>
+This seemed like an easy version of coding and it reminded me of Pseudocode that we did.<br/>
+<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple01.PNG" width="200" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple02.PNG" width="200" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple03.PNG" width="200" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple04.PNG" width="200" />
