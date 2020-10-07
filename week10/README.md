@@ -13,9 +13,10 @@ So I posted it on my Instagram story saying, 'Slave to the algorithm, IF = bday,
 It was funny in a way that we were making a small related pseudocode to communicate and that changed the weird feeling I had into more 'human' feeling.<br/>
 
 ## Interesting Findings 02 - Worm's Algorithmic movements
-While working on my stuff, I found a tiny movement in the middle of my large monitor. <br/>
+While working on my stuff, I found a tiny movement in the middle of my 23.8 inch monitor. <br/>
 So I looked it carefully and it was a tiny worm that tries to find its way!<br/>
-I have no idea why it decided to across this large screen and I was so fascinated by its small decisions.<br/>
+I have no idea why it decided to across this wide screen and I was so fascinated by its small decisions.<br/>
+I decided to film it with my micro lens(Sorry for the dirts on my screen, but you can't really see the dirts with your eyes as they are tiny).<br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/gifs/worm01.gif" width="400" /><br/>
 <img src="https://github.com/hunoong/slave2-A/blob/master/gifs/worm03_gif.gif" width="400" /><br/>
 And then I tried to visualise its 'Algorithminc instinct movement'. Blue stroke is its path and red dots are its decision making spots. <br/>
