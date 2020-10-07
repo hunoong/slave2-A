@@ -1,6 +1,7 @@
 # Week 10 [02.10.20]
 ## Current Stage (Code Sketch is in the sketch_WIP folder)
 <img src="https://github.com/hunoong/slave2-A/blob/master/week10/work_in_progress_screenshot.png" width="900" /> <br/>
+<br/>
 
 ## Current Stage - WIP screenshots 
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images03/WK10_WIP_Capture_01.png" width="220" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images03/WK10_WIP_Capture_02.png" width="460" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images03/WK10_WIP_Capture_03.png" width="220" /><br/>
@@ -16,7 +17,8 @@ But there was a problem in changing locations of the pg.images. I was able to ch
 I couldn't solve the problem that I mentioned earlier, so I decided to use the same margins for both of the pg.images. And then, I changed the rectangular detecting area into circular shape as Karen showed last week.<br/> 
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images03/WK10_WIP_Capture_11.png" width="450" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images03/WK10_WIP_Capture_12.png" width="450" /><br/>
 This is my current stage at the moment(on the 4th of October). I was able to put some texts at the back while drawing shapes on the second canvas in the middle of the screen. // Reference : [The Coding Train - 2.6: createGraphics()](https://www.youtube.com/watch?v=TaluaAD9MKA&ab_channel=TheCodingTrain) <br/>
-
+<br/>
+<br/>
 
 ## Interesting Findings 01 - Birthday Pseudocode
 So on the 4th(Sun), it was my birthday and I got a message from CommonWealth Bank. <br/>
@@ -27,7 +29,8 @@ They were providing a small service to their customers which I fully understand,
 <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/birthday_pseudocode.jpg" width="400" /> <img src="https://github.com/hunoong/slave2-A/blob/master/Images02/birthday_pseudocode2.png" width="400" /> <br/>
 So I posted it on my Instagram story saying, 'Slave to the algorithm, IF = bday, send a bday msg', and one of my friends replied back to me like this(the right picture).<br/>
 It was funny in a way that we were making a small related pseudocode to communicate and that changed the weird feeling I had into more 'human' feeling.<br/>
-
+<br/>
+<br/>
 
 ## Interesting Findings 02 - Worm's Algorithmic movements
 While working on my stuff, I found a tiny movement in the middle of my 23.8 inch monitor. <br/>
