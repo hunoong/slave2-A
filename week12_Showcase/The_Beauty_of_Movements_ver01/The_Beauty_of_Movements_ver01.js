@@ -71,8 +71,8 @@ function gotResults(err, results){
   for (var r=0; r<results.length; r++){
     fill(255);
     noStroke();
-    textSize(20);
-    textFont(font2);
+    textSize(24);
+    textFont(font1);
     text(results[0].label, windowWidth*0.2 , windowHeight/2 -275 +20*r);  // detection labels at the left top corner
   }
 }     
@@ -124,8 +124,9 @@ if (mode==1) {
  video.loop();
 
 // main ellipse
+ let ellipseBlue2 = map(mouseX, 0, width, 0, 245);
  noStroke();
- fill(0,0,245,225);
+ fill(0,0,245,225,ellipseBlue2);
  ellipse(windowWidth/2-500,windowHeight/2-340,800,800);
  
 // version specification
