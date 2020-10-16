@@ -112,7 +112,11 @@ if (mode==0) {
   textSize(9);
   textAlign(RIGHT);
   //text('The Beauty of the Eaten Path ver.01', windowWidth-50,windowHeight-50); // the original version
+<<<<<<< HEAD
   text('The Beauty of Movements ver.02', windowWidth-50,windowHeight*0.02);
+=======
+  text('The Beauty of Movements ver.01', windowWidth-50,windowHeight*0.02);
+>>>>>>> 0d7e72cd861e5dbc5760b31b8c4818966b2ec856
 
 // mouse cursor (the logo)
   image(img, mouseX-10, mouseY-10,30,35); 
@@ -134,7 +138,11 @@ if (mode==1) {
  textSize(9);
  textAlign(RIGHT);
  textFont(font3);
+<<<<<<< HEAD
  text('The Beauty of Movements ver.02', windowWidth-50,windowHeight*0.02);
+=======
+ text('The Beauty of Movements ver.01', windowWidth-50,windowHeight*0.02);
+>>>>>>> 0d7e72cd861e5dbc5760b31b8c4818966b2ec856
  
 ///////for error message
        textSize(14);
