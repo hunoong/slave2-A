@@ -5,7 +5,7 @@
 ### [Week 4](https://github.com/hunoong/slave2-A/tree/master/week04)
 ### [Week 5](https://github.com/hunoong/slave2-A/tree/master/week05)
 ### [Week 6](https://github.com/hunoong/slave2-A/tree/master/week06)
-### [Week Break](https://github.com/hunoong/slave2-A/tree/master/week06_BREAK)
+### [Mid sem break](https://github.com/hunoong/slave2-A/tree/master/week06_BREAK)
 ### [Week 7](https://github.com/hunoong/slave2-A/tree/master/week07)
 ### [Week 8](https://github.com/hunoong/slave2-A/tree/master/week08)
 ### [Week 9](https://github.com/hunoong/slave2-A/tree/master/week09%20MILESTONE)
