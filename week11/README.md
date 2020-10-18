@@ -28,4 +28,4 @@ On the 6th, my sister gave a birth to her child, Layla and I became an uncle! <b
 Next day, she wanted me to search about day counting apps or ways to show the day counts on iPhone. <br/>
 So I looked it up, and I found that you can customise your day counts with the Apple app 'Shorcuts'.<br/>
 This seemed like an easy version of coding and it reminded me of Pseudocode that we did.<br/>
-<img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple01.PNG" width="200" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple02.PNG" width="200" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple03.PNG" width="200" /><img src="https://github.com/hunoong/slave2-A/blob/master/Images02/shortcuts_apple04.PNG" width="200" />
+<img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple01.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple02.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple03.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple04.PNG" width="200" />
