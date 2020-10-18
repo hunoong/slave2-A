@@ -15,22 +15,22 @@ We will focus on the papers first and then we will see how to move from a paper 
 ## Group Work
 Chae, Yasmin and I became a group. We turned our camera on(unfortunately, Chae's cam didn't work) to see each others' process.<br/>
 Our selected game was *'Sonic & Knuckles + Sonic the Hedgehog 3'*. The tumbnail image of the game was a *bonus stage*, and it looked interesting so I suggested it to our group for our modeling.<br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/Sonic%20%26%20Knuckles%20%2B%20Sonic%20the%20Hedgehog%203%20(World).png" width="500" /> <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/wip_paper_mockup_in_class.png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/Sonic%20%26%20Knuckles%20%2B%20Sonic%20the%20Hedgehog%203%20(World).png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/wip_paper_mockup_in_class.png" width="500" /> <br/>
 <br/>
 In the bonus stage, I think the character is fixed and the background is moving. So to get all the points, the user basically moves the background not character.
 So I focused on making the background that can be moved by me.<br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/gifs/wip_paper_class-00.gif" width="700" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/wip_paper_class-00.gif" width="700" /> <br/>
 But later I decided to make the character move as well.<br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/gifs/wip_paper_class-02.gif" width="700" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/wip_paper_class-02.gif" width="700" /> <br/>
 <br/>
 
-<img src="https://github.com/hunoong/slave2-A/blob/master/gifs/group_paper_.gif" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/group_paper_.gif" width="500" /> <br/>
 *Yasmin's prototype*<br/>
 <br/>
 
 ###### The below image is what I found when I try to preview my gifs that was converted from my recorded video, I came across this scene and felt quite interesting. It basically contains my selected(custom) presets.
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/interesting_week06.png" width="700" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/interesting_week06.png" width="700" /> <br/>
 <br/>
 
 ## Processing Workshop #3 - Putting sounds on p5.js
@@ -41,11 +41,11 @@ On p5.js, instead of using *'void'*, we need to use *'function'*.<br/>
 After setting our variables, we started to add some new codes.<br/>
 <br/>
 
-<img src="https://github.com/hunoong/slave2-A/blob/master/gifs/sound_workshop_my_coffee_asmr.gif" width="800" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/sound_workshop_my_coffee_asmr.gif" width="800" /> <br/>
 I changed ellipse to rectangular shape to match with my selected audio('Iced Coffee ASMR sound').<br/>
 <br/>
 
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images02/sound_test_week06.png" width="600" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/sound_test_week06.png" width="600" /> <br/>
 
 The codes we learned were :<br/>
 song = ***loadSound('data/file_name_here_.mp3');***<br/>
