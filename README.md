@@ -1,5 +1,3 @@
-# Slave to the Algorithm
-
 ###### Slave to the Algorithm SKO navigation
 ### [Week 1](https://hunoong.github.io/slave2-A/week01/)
 ### [Week 2](https://hunoong.github.io/slave2-A/week02)
