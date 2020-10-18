@@ -1,5 +1,6 @@
-### 3653346 Hunjung Lee SKO
-###### Slave to the Algorithm SKO navigation
+## Slave to the Algorithm : Studio Knowledge Object
+#### 3653346 Hunjung Lee
+###### SKO navigation
 ### [Week 1](https://hunoong.github.io/slave2-A/week01/)
 ### [Week 2](https://hunoong.github.io/slave2-A/week02)
 ### [Week 3](https://hunoong.github.io/slave2-A/week03)
