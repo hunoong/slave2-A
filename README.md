@@ -16,4 +16,5 @@
 ### [Week 12](https://hunoong.github.io/slave2-A/week12)
 ### [Sketch for Showcase](https://hunoong.github.io/Hun_Lee/The_Beauty_of_the_Eaten_Path)
 <br/>
-**Click [here](https://github.com/hunoong/slave2-A) to visit *slave2-A repo***
+
+Redirect to [slave2-A Repository](https://github.com/hunoong/slave2-A)
