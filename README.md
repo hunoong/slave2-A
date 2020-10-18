@@ -14,7 +14,8 @@
 ### [Week 10](https://hunoong.github.io/slave2-A/week10)
 ### [Week 11](https://hunoong.github.io/slave2-A/week11)
 ### [Week 12](https://hunoong.github.io/slave2-A/week12)
-### [Sketch for Showcase](https://hunoong.github.io/Hun_Lee/The_Beauty_of_the_Eaten_Path)
+### [Published Sketch for Showcase](https://hunoong.github.io/Hun_Lee/The_Beauty_of_the_Eaten_Path)
+### [Sketch folder](https://github.com/hunoong/Hun_Lee/tree/gh-pages/The_Beauty_of_the_Eaten_Path)
 <br/>
 
 Redirect to [slave2-A Repository](https://github.com/hunoong/slave2-A)
