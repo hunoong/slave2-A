@@ -63,6 +63,5 @@ Karen gave me an advice to think a little bit larger and one step away from my p
 ## Wrapping up
 Andy and Karen suggested to come up with dozens of ideas and then try them out first rather than think just one solution. This is because it is much easier to know how you feel about something than how you think about something. 
 <br/>
-<br/>
 
 ###### [GO BACK](https://hunoong.github.io/slave2-A/)
