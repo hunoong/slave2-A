@@ -1,7 +1,7 @@
 # Week 05 [20.08.21] 
 ## Project Pitch Presentation
 <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images/Hun_Project_Pitch%20_logo.png" width="800" />
+<img src="https://hunoong.github.io/slave2-A/Images/Hun_Project_Pitch%20_logo.png" width="800" />
 
 I was very lost and wonderer if I was doing it right. <br/>
 I couldn't make up my mind as there were many ideas that I wanted to challenge and explore. And there were small and personal ideas than big ones. But I have heard some advice that 'personal things can be creative', so I decided to proceed with personal things. But I've expanded my target audience and ideas larger so that more people can relate to it. <br/>
@@ -23,3 +23,7 @@ text goes here
 
 ## Inspiration of the week
 text goes here
+<br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week06/)

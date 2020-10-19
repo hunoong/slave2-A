@@ -8,3 +8,7 @@ During the break, there are several things that I have found, have practised and
 # Python Tutorial exploration & Research
 
 # Python - OpenCV Practice
+<br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week07/)

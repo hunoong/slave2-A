@@ -20,12 +20,12 @@ Also , I found that if the size(pixels) of the photo is not even number, the pho
    rotate(spin); // The value '1' keeps adding for spinning
 
 **Adding photo** <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images/Screen%20Shot%202020-08-14%20at%2010.44.55%20am.png" width="500" /> <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images/Screen%20Shot%202020-08-14%20at%2011.08.50%20am.png" width="500" /> <br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images/Screen%20Shot%202020-08-14%20at%2011.16.00%20am.png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/Screen%20Shot%202020-08-14%20at%2010.44.55%20am.png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/Screen%20Shot%202020-08-14%20at%2011.08.50%20am.png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/Screen%20Shot%202020-08-14%20at%2011.16.00%20am.png" width="500" /> <br/>
 
 **Adding texts & Draw with the text**<br/>
-<img src="https://github.com/hunoong/slave2-A/blob/master/Images/Screen%20Shot%202020-08-14%20at%201.52.37%20pm.png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/Screen%20Shot%202020-08-14%20at%201.52.37%20pm.png" width="500" /> <br/>
 
 
 ###### Intereting notes
@@ -33,3 +33,8 @@ Also , I found that if the size(pixels) of the photo is not even number, the pho
 
 ## Group Discussion - Your Pitch
 Text goes here
+<br/>
+<br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week05/)
