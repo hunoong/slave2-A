@@ -60,4 +60,7 @@ I explored about more terms in processing in Korean to understand them better be
 Also, I found some interesting videos on Instagram. The first gif is 'Choosing your boyfriend's outfit randomly' and the second gif is the same structure but with a dog. <br/>
 It was just hilarious and interesting as well because they are also based on small algorithms that we explored over the week(12hrs challenge).<br/>
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /><img src="https://hunoong.github.io/slave2-A/Images/clothes2.gif" width="200" /> <br/>
+<br/>
 
+###### [GO BACK TO MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [GO TO NEXT WEEK](https://hunoong.github.io/slave2-A/week03/)
