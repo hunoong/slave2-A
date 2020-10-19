@@ -36,5 +36,5 @@ Text goes here
 <br/>
 <br/>
 
-###### [MAIN PAGE](https://hunoong.github.io/slave2-A/)
-###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week05/)
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week05/)
