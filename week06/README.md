@@ -59,5 +59,5 @@ analyzer = ***new p5.Amplitude();*** // This measures the volune through the p5 
 ***else{}***<br/>
 <br/>
 
-###### [MAIN PAGE](https://hunoong.github.io/slave2-A/)
-###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week06_BREAK/)
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week06_BREAK/)
