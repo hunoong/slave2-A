@@ -33,3 +33,8 @@ Also , I found that if the size(pixels) of the photo is not even number, the pho
 
 ## Group Discussion - Your Pitch
 Text goes here
+<br/>
+<br/>
+
+###### [MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week05/)
