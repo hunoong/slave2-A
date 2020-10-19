@@ -1,5 +1,5 @@
 # Week 09 [25.09.20] Milestone
-###### [[click here to check Milestone Sketch folder]](https://github.com/hunoong/slave2-A/tree/master/week09%20MILESTONE)
+###### [[click here to check Milestone Sketch folder]](https://github.com/hunoong/slave2-A/tree/master/week09_MILESTONE)
 ## During the week...
 Explored
 <br/>
