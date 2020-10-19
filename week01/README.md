@@ -17,6 +17,8 @@ Parametric design is a process based on algorithmic thinking that enables the ex
 *// Image src : [COMPUTATIONAL DESIGN, PARAMETRIC MODELING AND ARCHITECTURAL EDUCATION](https://www.designcoding.net/computational-design-parametric-modeling-and-architectural-education/).*<br/>
 
 During the class, I was pretty fascinated how our daily lives heavily rely on our own algorithmic processes. And I realised every moments when I do my chores(Like, I like to do several things all together to make things easier, but also it takes a lot of my energy.), they are formed by my own big-data which is my past experiences. My 'Own personal life formed big data' was forming my personal algorithms.<br/>
+<br/>
+<br/>
 
 ## Group Activity
 We divided into small groups and did some 'Parametric Drawing'.<br/>
@@ -26,6 +28,8 @@ Our group set up rules by using different dice.<br/>
 It was really interesting to see everyone's outcomes as the outcomes of each group was so different to each other and I thought I would try it differently if I would do it again. But still I really liked our group's outcomes as well.<br/>
 For mine, I didn't go out of the paper as I kind of feel secure in it, but I saw a different outcome by one of my group members and it was quite interesting how he goes out of the paper and also started his first mark in the middle of the paper.<br/>
 Also, it's kind of nice to see a messy red lines of mine in the bottom centre as I didn't think carefully(it was because of my misunderstanding of rules)enough and later on, I realised it and I modified it on top of it. So it does look a bit messy, but I like how it looks as it shows my ~~missunderstanding~~ attempts.
+<br/>
+<br/>
 
 ## Hunt&Gather
 ***"Try to follow any of the leads that you want to follow up on"***<br/>
