@@ -10,7 +10,7 @@
 #### [>Mid sem break](https://hunoong.github.io/slave2-A/week06_BREAK)
 #### [>Week 7](https://hunoong.github.io/slave2-A/week07)
 #### [>Week 8](https://hunoong.github.io/slave2-A/week08)
-#### [>Week 9 Milestone Sketch folder](https://github.com/hunoong/slave2-A/tree/master/week09_MILESTONE)
+#### [>Week 9 Milestone Sketch folder](https://hunoong.github.io/slave2-A/week09_MILESTONE)
 #### [>Week 10](https://hunoong.github.io/slave2-A/week10)
 #### [>Week 11](https://hunoong.github.io/slave2-A/week11)
 #### [>Week 12](https://hunoong.github.io/slave2-A/week12)
