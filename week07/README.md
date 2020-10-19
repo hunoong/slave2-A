@@ -116,3 +116,6 @@ From [Drawphone](https://github.com/tannerkrewson/drawphone) <br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/drawphone.jpg" width="800" /> <br/>
 It was funny how 'peanuts' that I drew became 'illegal organ extraction' and 'brain' became 'Dwayne Johnson'.<br/>
 <br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week08/)
