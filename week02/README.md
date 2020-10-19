@@ -62,5 +62,5 @@ It was just hilarious and interesting as well because they are also based on sma
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /><img src="https://hunoong.github.io/slave2-A/Images/clothes2.gif" width="200" /> <br/>
 <br/>
 
-###### [GO BACK TO MAIN PAGE](https://hunoong.github.io/slave2-A/)
-###### [GO TO NEXT WEEK](https://hunoong.github.io/slave2-A/week03/)
+###### [MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week03/)
