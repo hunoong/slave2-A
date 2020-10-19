@@ -1,4 +1,5 @@
 # Week 11 [09.10.20] 
+###### [[click here to check week11 WIP sketch folder]](https://github.com/hunoong/slave2-A/tree/master/week11_WIP_Sketch)
 ## Current Stage - Experiment of the week
 During the week, I wanted to test out some birds feeding experiments. <br/>
 <br/>
@@ -29,3 +30,7 @@ Next day, she wanted me to search about day counting apps or ways to show the da
 So I looked it up, and I found that you can customise your day counts with the Apple app 'Shorcuts'.<br/>
 This seemed like an easy version of coding and it reminded me of Pseudocode that we did.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple01.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple02.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple03.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple04.PNG" width="200" />
+<br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week12/)
