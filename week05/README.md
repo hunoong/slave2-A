@@ -23,3 +23,7 @@ text goes here
 
 ## Inspiration of the week
 text goes here
+<br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week06/)
