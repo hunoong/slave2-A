@@ -52,6 +52,6 @@ I explored about more terms in processing in Korean to understand them better be
 <img src="https://hunoong.github.io/slave2-A/gifs/dog_choosing_clothes.gif" width="350" />
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /> <br/>
 
-
+<img src="https://hunoong.github.io/slave2-A/gifs/dog_choosing_clothes.gif" width="500" /> <br/>
 
 
