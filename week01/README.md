@@ -46,6 +46,6 @@ I was so fascinated by them. This webpage is not only aesthethic but also shows 
 Also it shows how colours can communicate the essence and emotion of the films.<br/>
 <br/>
 
-###### [MAIN PAGE](https://hunoong.github.io/slave2-A/)
-###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week02/)
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week02/)
 
