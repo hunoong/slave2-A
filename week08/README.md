@@ -2,6 +2,7 @@
 
 ## During the week...
 Explored
+
 <br/>
 <br/>
 
