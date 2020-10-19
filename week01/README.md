@@ -45,5 +45,5 @@ Also, it's kind of nice to see a messy red lines of mine in the bottom centre as
 I was so fascinated by them. This webpage is not only aesthethic but also shows how each films has their own colours as representative.
 Also it shows how colours can communicate the essence and emotion of the films.<br/>
 <br/>
-<br/>
+
 ###### [GO BACK](https://hunoong.github.io/slave2-A/)
