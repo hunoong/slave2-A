@@ -54,6 +54,6 @@ Also, I found some interesting videos on Instagram. The first gif is 'Choosing y
 It was just hilarious and interesting as well because they are also based on small algorithms that we explored over the week(12hrs challenge).<br/>
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /> <br/>
 
-<img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG2.gif" width="350" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/clothes2.gif" width="200" />
 
 <img src="https://github.com/hunoong/slave2-A/blob/master/gifs/choosingcloth_on_IG2.gif" width="350"
