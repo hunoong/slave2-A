@@ -47,3 +47,5 @@ Also it shows how colours can communicate the essence and emotion of the films.<
 <br/>
 
 ###### [GO BACK](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week02/)
+
