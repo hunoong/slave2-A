@@ -31,15 +31,27 @@ In terms of 'Human-machine collaboration', I think they are similar to some exte
 
 
 ## Processing Workshop 01 & Remixing
-Text goes here
-Tools - Movie Maker
+We experimented with the processing for the first time. At first I was a little bit worried because I had a bad memory that I was struggling to learn the processing when I was in 2013 in Korea. But things went pretty okay. We've learned some basic function such as how to draw **lines**, what are **parameters** are, drawing **ellipse**, **R,G,B values** and using **mouseX** and **mouseY**. <br/> 
+And then we made our self portraits. I did not like what I made though, it was fun to play with it.<br/>
+
+We also learned how to export files via 'Tools - Movie Maker'.
 
 <img src="https://hunoong.github.io/slave2-A/Images/processing_workshop.png" width="700" /> <br/>
 *// Bottom left image originally done by Yerim Kim & remixed by me* <br/>                                                 
 
+I remixed Yerim's work as I thought it was pretty interesting and fun. Then I came up with an idea to make it into Disney Characters.<br/>
+So I tried to make it look like 'Elsa' from Frozen.
 ## Group Discussion - inputs & outputs
-Text goes here <br/>
+In our group discussion time, we discussed about what are 10 inputs and 10 outputs are.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images/week02_in%26out.png" width="700" /> <br/>
-
+We came up with interesting ideas from Growth to Location information. <br/>
+Among these, I actually pretty liked mine which were : Growth(Mould), Movements(Others) and Tracking Ants.<br/>
+As I'm stuck at home, I just like to watch people walking along the path & some wild animals flying outside. <br/>
 ## Extra Research
-about terms and processing
+I explored about more terms in processing in Korean to understand them better before it gets too difficult..<br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/dog_choosing_clothes.gif" width="350" />
+<img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /> <br/>
+
+
+
+
