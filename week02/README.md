@@ -49,7 +49,7 @@ Among these, I actually pretty liked mine which were : Growth(Mould), Movements(
 As I'm stuck at home, I just like to watch people walking along the path & some wild animals flying outside. <br/>
 ## Extra Research
 I explored about more terms in processing in Korean to understand them better before it gets too difficult..<br/>
-<img src="https://hunoong.github.io/slave2-A/gifs/dog_choosing_clothes.gif" width="350" />
+
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /> <br/>
 
 <img src="https://hunoong.github.io/slave2-A/gifs/dog_choosing_clothes.gif" width="500" /> <br/>
