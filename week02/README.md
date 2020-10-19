@@ -50,7 +50,8 @@ As I'm stuck at home, I just like to watch people walking along the path & some 
 
 ## Extra Research
 I explored about more terms in processing in Korean to understand them better before it gets too difficult..<br/>
-Also, I found some interesting videos on Instagram. The first gif is 'Choosing your boyfriend's outfit randomly' and the second gif is the same structure but with a dog. *(Currently dog gif is not working on Github pages)* It was just hilarious and interesting as well because they are also based on small algorithms that we explored over the week(12hrs challenge).<br/>
+Also, I found some interesting videos on Instagram. The first gif is 'Choosing your boyfriend's outfit randomly' and the second gif is the same structure but with a dog. *(Currently dog gif is not working on Github pages)* <br/>
+It was just hilarious and interesting as well because they are also based on small algorithms that we explored over the week(12hrs challenge).<br/>
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /> <br/>
 
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG2.gif" width="350" /> <br/>
