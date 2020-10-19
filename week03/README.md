@@ -30,7 +30,7 @@ I then attached a paper and brushes to it. And then I tied that machine around m
 
 **(3) Using the fridge** <br/>
 This one came out as the best among three approaches. I came up with this idea at the start of the case study slides though, during the class 'using fridge to create a painting' mentioned already so I didn't want to do it. But as previous two attempts didn't come out as nicely as I wanted so I decided to give it a shot. Even though it was the last try and kind of improvising attempt, it came out pretty intresting as I liked how it worked with the amount of force I put.<br/>
-It was very interesting that there were several dots on the paper. And I realised those pools of 'ink form' represent my 'lunch decision making' as they were created where I paused when I try to make up my mind what to eat. <br/>
+It was very interesting that there were several dots on the paper. And I realised those **'pools of ink form'** represent my **'lunch decision making'** as they were created where I paused when I try to make up my mind what to eat. **(small dots == thinking pools)** <br/>
 <img src="https://hunoong.github.io/slave2-A/Images/nonhuman4.jpg" width="400" /> <img src="https://hunoong.github.io/slave2-A/gifs/nonhuman3.gif" width="400" /><br/>
 
 **Final Outcomes**<br/>
