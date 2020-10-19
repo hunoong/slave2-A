@@ -42,3 +42,7 @@ I decided to film it with my micro lens(Sorry for the dirts on my screen, but yo
 And then I tried to visualise its 'Algorithminc instinct movement'. Blue stroke is its path and red dots are its decision making spots. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/worm02_path_decision.png" width="400" /><br/>
 I was just surprised that I found it on my screen and that it was similar to what I am currently working on for my project. <br/>
+<br/>
+
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week11/)
