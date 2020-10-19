@@ -4,8 +4,9 @@
 ## Summary of week 3
 This week, we explored a bunch of case studies in related to ways of systems that give something else the power to make the decision for you. <br/>
 
-During the class, Louis asked how important is the performer on ***'Drawing Machine #1' by Josheph Griffiths*** and got some interesting answers back from Andy and Karen. They said that human being(body) is working as *a performer* at the same time *co-creator* and *operator.* So basically, the machine will do nothing untill human activates it. By activating it, this collaboration work will create some synergy which makes this work interesting. 
-<br/>
+During the class, Louis asked how important is the performer on ***'Drawing Machine #1' by Josheph Griffiths*** and got some interesting answers back from Andy and Karen. They said that human being(body) is working as *a performer* at the same time *co-creator* and *operator.* So basically, the machine will do nothing untill human activates it. By activating it, this collaboration work will create some synergy which makes this work interesting. <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/drawingmachine1_by_joseph_griffiths.jpg" width="500" /> <br/>
+
 <br/>
 ## Unplugged Activity : Nonhuman Markmaking
 If the processing workshop we did last week was an intense activity, this unplugged one hour activity during the lunch break was very relaxing in a way because I made my own physical things with my hands that I can directly see the progress.<br/>
