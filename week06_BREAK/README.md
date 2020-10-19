@@ -10,5 +10,5 @@ During the break, there are several things that I have found, have practised and
 # Python - OpenCV Practice
 <br/>
 
-###### [MAIN PAGE](https://hunoong.github.io/slave2-A/)
-###### [NEXT WEEK](https://hunoong.github.io/slave2-A/week07/)
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
+###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week07/)
