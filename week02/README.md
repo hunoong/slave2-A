@@ -47,8 +47,10 @@ In our group discussion time, we discussed about what are 10 inputs and 10 outpu
 We came up with interesting ideas from Growth to Location information. <br/>
 Among these, I actually pretty liked mine which were : Growth(Mould), Movements(Others) and Tracking Ants.<br/>
 As I'm stuck at home, I just like to watch people walking along the path & some wild animals flying outside. <br/>
+
 ## Extra Research
 I explored about more terms in processing in Korean to understand them better before it gets too difficult..<br/>
-
+Also, I found some interesting videos on Instagram. The first gif is 'Choosing your boyfriend's outfit randomly' and the second gif is the same structure but with a dog. *(Currently dog gif is not working on Github pages)* It was just hilarious and interesting as well because they are also based on small algorithms that we explored over the week(12hrs challenge).<br/>
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG.gif" width="350" /> <br/>
 <img src="https://hunoong.github.io/slave2-A/gifs/choosingcloth_on_IG2.gif" width="350" /> <br/>
+<img src="https://github.com/hunoong/slave2-A/blob/master/gifs/choosingcloth_on_IG2.gif" width="350"
