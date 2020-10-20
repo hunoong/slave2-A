@@ -46,9 +46,9 @@ She also mentioned that *the spirit of sharing is to expand the idea of 'what if
 Unfortunately, unlike what Karen said 'See how can group of memebers improve or test elements', our group barely talked.. it was very difficult..
 However, after Andy joined in, we talked a little bit more and were able to share our ideas.<br/>
 <br/>
-After sharing my ideas, I asked to Andy whether the project should has some meanings behind the aesthetic because I wanted to focus only on the beautiness. Andy's advice was very interesting as he said that 'The aesthetic means 'meaning'','The meaning can come from the aesthetic'. So it doesn't have to have some kind of a social awareness behind it, and that I could focus on purely aesthetic. The studio project could be an abstract as well.<br/>
+After sharing my ideas, I asked to Andy whether the project should has some meanings behind the aesthetic because I wanted to focus only on the beautiness. Andy's advice was very interesting as he said that **'The aesthetic means 'meaning'','The meaning can come from the aesthetic'.** So it doesn't have to have some kind of a social awareness behind it, and that I could focus on purely aesthetic. The studio project could be an abstract as well.<br/>
 <br/>
-Thanks to Andy's encouragement, I was able to share more ideas of mine which was 'The live digital painting that captures natural phenomena'.<br/>
+Thanks to Andy's encouragement, I was able to share more ideas of mine which was *'The live digital painting that captures natural phenomena'*.<br/>
 I'm actually really into this idea(I'm not sure how it can be made though) than the interior clock one. Because, I just wanted to create a 'purely aesthetic experience'. And Andy said it is good idea that it captures real world aspects near me and to bring it into the screen.<br/>
 <br/>
 <br/>
