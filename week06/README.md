@@ -1,4 +1,13 @@
 # Week 06 [28.08.20] 
+## Inspiration of the week
+'An art by male blow fish'(*[Youtube link](https://www.youtube.com/watch?v=VQr8xDk_UaY&ab_channel=KinderWorld)*)<br/>
+To get the attention of female blowfish, male blowfish creates the most wonderful sand art working 24hrs a day for about a week.<br/>
+I think this is one of the good examples of natural algorithms. By using his fins, he draws the lines and cleaning the area by using his mouth.
+I thought this would the perfect for the case study of the week as a wonderful generative art for love(or maybe just an instinct) was very fascinating. Also, watching their 'programmed' or maybe 'instinctive' movements made me think about 'what is the algorithm?'. <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/maleblowfish_art.jpg" width="250" /><img src="https://hunoong.github.io/slave2-A/gifs/maleblowfish02.gif" width="250" /> <br/>
+<br/>
+<br/>
+
 ## Group Discussion
 In class, we discussed and put our titles, technology required and mediums into a shared google sheet.<br/>
 And then we split up to small groups to discuss further. Our group, Bio feedback, did not discuss much, but it was nice to see what technologies people were considering of using.
