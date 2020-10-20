@@ -1,7 +1,6 @@
 # Week 04 [14.08.20] 
 
-## Case Study
-Text goes here
+
 
 ## Processing Workshop 02 
 Today we had another processing workshop session.<br/>
@@ -26,13 +25,15 @@ Also , I found that if the size(pixels) of the photo is not even number, the pho
 
 **Adding texts & Draw with the text**<br/>
 <img src="https://hunoong.github.io/slave2-A/Images/Screen%20Shot%202020-08-14%20at%201.52.37%20pm.png" width="500" /> <br/>
-
+<img src="https://hunoong.github.io/slave2-A/gifs/Untitled-2.gif" width="500" /> <br/>
+I made some drawings with texts <br/>
+<img src="https://hunoong.github.io/slave2-A/Images/textworkshop_drawing.png" width="500" /> <br/>
 
 ###### Intereting notes
-- Karen mentioned that scientifically your coding memory will last only for 25 hrs. So don't think my coding memory lasts longer because later when you see the examples or sketches you made, you won't quite get them directly.
+- Karen mentioned that scientifically your coding memory will last only for 25 hrs. So don't think my coding memory lasts longer because later when you see the examples or sketches you made, you won't quite get them directly.<br/>
 
 ## Group Discussion - Your Pitch
-Text goes here
+I 
 <br/>
 <br/>
 
