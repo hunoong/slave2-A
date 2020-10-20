@@ -42,8 +42,8 @@ I made some drawings with texts <br/>
 
 ## Group Discussion - Your Pitch
 So we divided into small groups and Karen said we need to speak of our speculative design project. <br/>
-She also mentioned that *the spirit of sharing is to expand the idea of 'what if?'*. We need to listen to our peers ideas, suggest ways we could test the outcomes or we could test the input or process.. This is because we are looking at the ideal of generative/paramatric system for design. <br/>
-Unfortunately, unlike what Karen said 'See how can group of memebers improve or test elements', our group barely talked.. it was very difficult..<br/>
+She also mentioned that *the spirit of sharing is to expand the idea of 'what if?'*. We need to listen to our peers ideas, suggest ways we could test the outcomes or we could test the input or process.. This is because we are looking at the ideal of generative/paramatric system for design.
+Unfortunately, unlike what Karen said 'See how can group of memebers improve or test elements', our group barely talked.. it was very difficult..
 However, after Andy joined in, we talked a little bit more and were able to share our ideas.<br/>
 <br/>
 After sharing my ideas, I asked to Andy whether the project should has some meanings behind the aesthetic because I wanted to focus only on the beautiness. Andy's advice was very interesting as he said that 'The aesthetic means 'meaning'','The meaning can come from the aesthetic'. So it doesn't have to have some kind of a social awareness behind it, and that I could focus on purely aesthetic. The studio project could be an abstract as well.<br/>
