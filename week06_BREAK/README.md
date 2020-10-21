@@ -47,17 +47,15 @@ And if I can track objects, and animals, maybe I could combine drawing features 
 ## Python - OpenCV Practice
 I practiced by it myself as well, testing things out and faced the problem and solved it via going throught some forums...<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python05_motion_tracking_근데 안쓸거임 이거.png" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images02/python_tutorial_gif.gif" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python04_issue_resolved.png" width="400" /> <br/>
-*(The right image is showing that I was trying to solve the issue <Qt Platform plugin "cocoa" not found error>)* <br/>
-
+*(The last image is showing that I was trying to solve the issue <Qt Platform plugin "cocoa" not found error>)* <br/>
 <br/>
-
+<br/>
 
 ## Case Study - 'Tong'
 A wearable device that is worn in the mouth to operate a computer using the tongue designed by Dorothee Clasen([related article](https://www.dezeen.com/2020/08/26/inbrace-dorothee-clasen-graduate-design-technology-tongue-computer/))<br/>
 <img src="https://hunoong.github.io/slave2-A/Images/tongue_device02.jpg" width="500" /><img src="https://hunoong.github.io/slave2-A/gifs/tongue_device-1.gif" width="500" /> <br/>
-
-
-## Interesting findings
+This was very interesting that this controller that is controlled by a tongue has sensors which detect the movement of the tongue. It is capable of operating computers and smart devices. There is no risk of electric shock because it is made with silicon. This, in particular, will be good for those who have difficulties moving their fingers or hands. For example, paralyzed patients can use their tongues to use smartphones or digital devices. Although large transmitters need to be placed behind ears as they are still in their early stages of development, it is predicted that range of use will increase if design and performance improve. For example, a pianist can play the piano while not worrying about flipping music sheets, or play music while skiing. I think it's amazing that a small machine can cause a great change in someone's life. There seems to be a lot of potentials. <br/>
+<br/>
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
 ###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week07/)
