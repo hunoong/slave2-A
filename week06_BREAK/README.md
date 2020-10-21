@@ -46,7 +46,7 @@ And if I can track objects, and animals, maybe I could combine drawing features 
 
 ## Python - OpenCV Practice
 I practiced by it myself as well, testing things out and faced the problem and solved it via going throught some forums...<br/>
-<img src="https://hunoong.github.io/slave2-A/Images02/Break_Python05_motion_tracking_근데 안쓸거임 이거.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python06_motion_detection.gif" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python04_while_detection_tutorial,Qt Platform plugin "cocoa" not found error_resolved.png" width="300" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/Break_Python05_motion_tracking_근데 안쓸거임 이거.png" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images02/python_tutorial_gif.gif" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python04_issue_resolved.png" width="400" /> <br/>
 *(The right image is showing that I was trying to solve the issue <Qt Platform plugin "cocoa" not found error>)* <br/>
 
 <br/>
