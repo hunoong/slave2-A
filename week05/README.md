@@ -40,7 +40,9 @@ However, now I feel super proud of myself that now I'm taking their class again.
 <br/>
 
 ## Inspiration of the week
-<img src="https://hunoong.github.io/slave2-A/Images02/pigeon_meme.gif.gif" width="500" /> <img src="https://hunoong.github.io/slave2-A/Images02/pigeon_meme.jpg" width="500" />
+<img src="https://hunoong.github.io/slave2-A/Images02/pigeon_meme_gif.gif" width="500" /><img src="https://hunoong.github.io/slave2-A/Images02/pigeon_meme.jpg" width="500" />
+I think this is how I will feel about while working for the final project in the future.<br/>
+This can be just seeing as a funny meme or showing how programmers get frustrated with their machines or codes... but this can be also showing your ability to detour. Sometimes you have to go back without being confronted about what's coming. (Words from *'Success in the Arts: What It Takes to Make It in Creative Fields by A. Michael Shumate'*). Or this can be a 'Happy Accident'.<br/>
 <br/>
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
