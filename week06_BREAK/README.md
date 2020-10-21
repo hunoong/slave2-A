@@ -21,21 +21,43 @@ Even though I tried all I can do by myself, it didn't work. So I had to change m
 
 ## Python Tutorial exploration & Research
 At the same time, I also explored basic Python OpenCv and OpenCV for detection(to track animals later).<br/>
+And I also wanted to know whether the Mac webcam is working on Python or not(it did work).<br/>
 First, I learned some basic functions from [Python Tutorial - Python for Beginners by Programming with Mosh on Youtube](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLkYK-w4inUUwaAY_1CARjUsuAfgAWvrCY&index=29&t=318s&ab_channel=ProgrammingwithMosh)<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python02_basic_python_ex.png" width="500" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python03_basic_python_ex_cmd+click = show function.png" width="500" /> <br/>
 *(The right image is showing 'cmd+click' that shows the function of the language.)*<br/>
 <br/>
 Also, I found many articles and tutorials that try to detecting objects or animals by using Open CV. I went through tutorials mostly on Youtube.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/tutorials.png" width="500" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python01_webcam_launch_exercise.png" width="500" /><br/>
-*(The right image is showing how I imported libraries and video capture.)*>br/>
-
-
-
-## Python - OpenCV Practice
+*(The right image is showing how I imported libraries and video capture.)*<br/>
+<br/>
+Some of the object detection tutorials I followed are by <br/>
+- [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)<br/>
+I also tried to follow tutorials by <br/>
+- [Adrian Rosebrock - Basic motion detection and tracking with Python and OpenCV](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)<br/>
+I found some interesting articles : <br/>
+-[Detecting animals in the backyard — practical application of deep learning. by Gaiar Baimuratov](https://towardsdatascience.com/detecting-animals-in-the-backyard-practical-application-of-deep-learning-c030d3263ba8)<br/>
+-[This Motion-Detecting Wildlife Camera Was Made with Raspberry Pi by MICHAEL ZHANG](https://petapixel.com/2018/02/06/motion-detecting-wildlife-camera-made-raspberry-pi/)<br/>
+I experimented some codes whether it is working for me as well :
+- Tracking Rat [Animal Tracking by colinlaney](https://github.com/colinlaney/animal-tracking)<br/>
+And if I can track objects, and animals, maybe I could combine drawing features together? So that animals can create drawings while they are being detected.<br/>
+- [Object Tracking by ankurg22](https://github.com/ankurg22/object-tracking)<br/>
+<br/>
 <br/>
 
-# Case Study - 'Tong'
-A wearable device that is worn in the mouth to operate a computer using the tongue designed by Dorothee Clasen([related article](https://www.dezeen.com/2020/08/26/inbrace-dorothee-clasen-graduate-design-technology-tongue-computer/))
+## Python - OpenCV Practice
+I practiced by it myself as well, testing things out and faced the problem and solved it via going throught some forums...<br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/Break_Python05_motion_tracking_근데 안쓸거임 이거.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python06_motion_detection.gif" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python04_while_detection_tutorial,Qt Platform plugin "cocoa" not found error_resolved.png" width="300" /> <br/>
+*(The right image is showing that I was trying to solve the issue <Qt Platform plugin "cocoa" not found error>)* <br/>
+
+<br/>
+
+
+## Case Study - 'Tong'
+A wearable device that is worn in the mouth to operate a computer using the tongue designed by Dorothee Clasen([related article](https://www.dezeen.com/2020/08/26/inbrace-dorothee-clasen-graduate-design-technology-tongue-computer/))<br/>
+<img src="https://hunoong.github.io/slave2-A/Images/tongue_device02.jpg" width="500" /><img src="https://hunoong.github.io/slave2-A/gifs/tongue_device-1.gif" width="500" /> <br/>
+
+
+## Interesting findings
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
 ###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week07/)
