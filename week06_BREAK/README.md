@@ -59,8 +59,3 @@ This was very interesting that this controller that is controlled by a tongue ha
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
 ###### [NEXT WEEK >](https://hunoong.github.io/slave2-A/week07/)
-
-
-
-
-<img src="https://hunoong.github.io/slave2-A/Images/howareyou.jpg" width="450" />
