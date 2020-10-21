@@ -1,7 +1,7 @@
 # Week 05 [20.08.21] 
 ## Project Pitch Presentation
 <br/>
-<img src="https://hunoong.github.io/slave2-A/Images/Hun_Project_Pitch%20_logo.png" width="800" />
+<img src="https://hunoong.github.io/slave2-A/Images/Hun_Project_Pitch%20_logo.png" width="1000" />
 
 I was very lost and wonderer if I was doing it right. <br/>
 I couldn't make up my mind as there were many ideas that I wanted to challenge and explore. And there were small and personal ideas than big ones. But I have heard some advice that 'personal things can be creative', so I decided to proceed with personal things. But I've expanded my target audience and ideas larger so that more people can relate to it. <br/>
@@ -17,6 +17,8 @@ At the same time,**<*the correlation between emotion and brain waves*>** was inv
 
 During the presentation, I watched and listened to other classmates' contents and felt that mine was a little different and something was lacking. Of course, it was good to see various unique ideas from them. <br/>
 So I personally asked Karen for feedback after class and she answered kindly. <br/>
+
+**related presentation image(logo, emblems etc) goes here**
 
 ## **Here's the feedback I got:**
 text goes here
