@@ -38,6 +38,7 @@ I was a bit overwhelmed with my first studio class with them, and was a bit scar
 However, now I feel super proud of myself that now I'm taking their class again. And glad that I got my first preference for my last semester in RMIT. It is still very challenging and difficult, but I am learning a lot.<br/>
 <br/>
 <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/MS05.png" width="1000" />
 
 ## Inspiration of the week
 <img src="https://hunoong.github.io/slave2-A/Images02/pigeon_meme_gif.gif" width="500" /><img src="https://hunoong.github.io/slave2-A/Images02/pigeon_meme.jpg" width="500" /> <br/>
