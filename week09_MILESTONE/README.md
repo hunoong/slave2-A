@@ -1,3 +1,4 @@
+# Week 09 [25.09.20]
 ## Over the week...
 I experimented sketches and tried to combine 'ML5 Object detection sketch' and ['Drawing sketch-'Doodle Vector'](https://github.com/karenanndonnachie/Slave-To-The-Algorithm/tree/master/P5js/doodleVector_P5js) together.
 
@@ -7,7 +8,7 @@ I was not sure how I can draw things over the camera as the detection area kept 
 <br/>
 <br/>
 
-# Week 09 [25.09.20] Milestone Review - 1min presentation
+## Milestone Review - 1min presentation
 ###### [[click here to check Milestone Sketch folder]](https://github.com/hunoong/slave2-A/tree/master/week09_MILESTONE)
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_10.png" width="450" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_11_milestone.gif" width="450" /> <br/>
 The name of my project is ‘Bird Tracker’ and the subtitle of it is ‘the beauty of the eaten path.’<br/>
