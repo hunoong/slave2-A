@@ -11,12 +11,14 @@ I knew that it takes time to get their attentions, so once you put some seeds, y
 <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding02.png" width="280" /> <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding01.png" width="500" /> <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_03.gif" width="300" />
 <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_00.png" width="300" />  <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_02.jpg" width="300" />
+<br/>
 And because they are super sensitive, I had to be careful not to surprise them.<br/>
 After few days, sparrows are the first ones found the seeds on my balcony table. <br/>
-I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. <br/>
+I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. And then once my balcony got popular, more birds were visiting.<br/>
+<br/>
+<br/>
 
-
-## Current Stage - coding
+## Current Stage - Coding
 
 
 
