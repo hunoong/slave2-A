@@ -48,7 +48,7 @@ So I wanted to make brushes while obejects are being detected, and I realised th
 
 ## Issue on working locally
 So after the class I changed my work area from Web Editor to Local as I also got a feedback that it would be better to work on locally. But there was a problem that the sketch wasn't opening. I was struggling to solve this problem. After spending quite a bit of time, by deleting ***<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"> </script> and <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"> </script> on my index.*** <br/>
-I only left ***  <script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"></script> *** this part on the index.<br/>
+I only left ***<script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"> </script>*** this part on the index.<br/>
 It was very weird that the sketch did not work when I deleted those two libraries on Web Editor. But it's now working on my local sketch.<br/>
 <br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_06_issue.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_07_solved.png" width="600" /><br/>
