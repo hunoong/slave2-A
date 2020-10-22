@@ -62,7 +62,7 @@ And then the tutor asked me to have a look at 'So Le Witt' which we covered in w
 <img src="https://hunoong.github.io/slave2-A/Images02/so%20le%20witt.png" width="800" /> <br/>
 // *[So Le Witt - Google search](https://www.google.com/search?q=so+le+witt&rlz=1C5CHFA_enAU894AU894&sxsrf=ALeKk01gIi0uPnunNUWnQy9fq2LIqGt1lw:1601858450856&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR_8Xfm5zsAhVKeX0KHTsFCskQ_AUoAXoECBYQAw&biw=2048&bih=1018)* <br/>
 <br/>
-It was just fascinating how things look unrelated are somhow connected together and I felt so nice when I discovered this and made the connection between classes as my personal manifesto is *'Always observe. It connects unconnected pieces, and leads to a chain of knowledge.'*. and I feel like I'm doing it right and following my motto.
+It was just fascinating how things look unrelated are somhow connected together and I felt so nice when I discovered this and made the connection between classes as my personal manifesto is ***'Always observe. It connects unconnected pieces, and leads to a chain of knowledge.'***. and I feel like I'm doing it right and following my motto.
 
 <br/>
 <br/>
