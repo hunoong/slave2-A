@@ -25,20 +25,20 @@ The object detector detected objects pretty well so I thought there’s no issue
 So I went out to the park to get a close distance, but somehow there were literally no birds in the park. So I ended up detecting other things. It detected a person and his dog pretty well. Obviously not 100%, but it seemed like the background didn’t interrupt the objects. Then I came back to my place and sowed some seeds on the path rather than on the grass and waited for a few minutes. It detected the bird quite well even though at the end it detected it as a human.<br/>
 <br/>
 
-#### Feedback :
+###### Feedback :
 Karen suggested me to use a second canvas for detection and camera capture(mapping it into a second canvas.). Also, I just need to find the right path way to get the data point for connecting detection area as a brush. She also mentioned that the idea of getting a wrong detection is interesting.<br/>
 <br/>
 I think I need to consider whether I will embrace ‘Happy Accident : weird detection’ or not if the sketch is not working properly.<br/>
 <br/>
 <br/>
 
-#### What's next?
-***Current issues that I am having are :*** <br/>
+###### What's next?
+>***Current issues that I am having are :*** <br/>
 1) Figuring out the right path way to make my sketch draw while objects are being detected, also while the web cam is running.<br/>- To solve this, I am experimenting ‘Second Canvas’ function.<br/>
 2) Many linked files problem.<br/>- To solve this, I got feedback to make things ‘locally’ so that only essential things can be linked.<br/>
 <br/>
 
-***Possible next steps are :*** <br/>
+>***Possible next steps are :*** <br/>
 1) Embracing wrong detection and make it into a part of art piece. Or multiple canvas can create different generative path of arts<br/>
 2) Refined textures and brushes<br/>
 3) Random colouring on crossed area<br/>
