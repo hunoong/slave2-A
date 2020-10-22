@@ -57,10 +57,9 @@ So I wanted to make brushes while obejects are being detected, and I realised th
 
 ## Issue on working locally
 So after the class I changed my work area from Web Editor to Local. Thankfully, I was able to load my sketch on the processing locally, but loading external libraries makes the sketch weird which did not happen on the web editor. I solved this by deleting ‘cloudflare’ library on index section, and then the sketch ran properly. But still the loaded preview is a bit different to web editor version, so I need to figure this out. <br/>
->>By deleting ***<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"> </script> and <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"> </script> on my index.*** <br/>
+>By deleting ***<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"> </script> and <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"> </script> on my index.*** <br/>
 
->>I only left ***<script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"> </script>*** this part on the index.<br/>
-<br/>
+>I only left ***<script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"> </script>*** this part on the index.<br/>
 
 It was very weird that the sketch did not work when I deleted those two libraries on Web Editor. But it's now working on my local sketch.<br/>
 <br/>
