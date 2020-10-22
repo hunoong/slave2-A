@@ -5,20 +5,24 @@
 During the week, I wanted to test out some birds feeding experiments. <br/>
 <br/>
 When I was struggling to improve the quality of detection camera the other day as the detector couldn't track the birds well in a far distance, a dove came to my balcony and I saw it resting on the fence.
-<img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding03%20pigeon.jpg" width="785" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding03%20pigeon.jpg" width="800" /> <br/>
 And I thought it would be nice if I can watch some birds coming right in front of my desk, so that I could test out the 'ML5 Detector' whether it can detect them well or not.<br/>
 I knew that it takes time to get their attentions, so once you put some seeds, you need to wait for them to find these treats. <br/>
-<img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding02.png" width="280" /> <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding01.png" width="500" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding02.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding01.png" width="500" /> <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_03.gif" width="300" />
 <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_00.png" width="300" />  <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_02.jpg" width="300" />
 <br/>
 And because they are super sensitive, I had to be careful not to surprise them.<br/>
-After few days, sparrows are the first ones found the seeds on my balcony table. <br/>
-I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. And then once my balcony got popular, more birds were visiting.<br/>
+After few days, sparrows are the first ones found the seeds on my balcony table. I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. And then once my balcony got popular, more birds were visiting.<br/>
+<br/>
+While working on this, I also made another *'Back up plan'* which is *'Birds videos for Cats' on Youtube*. I made my Mac and iPad face each other and tried to detect birds in the video on my iPad screen. And it worked.<br/>
 <br/>
 <br/>
 
 ## Current Stage - Coding
+During the week I had some questions in related to 'Showing detection results' & 'Making detection area appear on the second canvas'.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_04.png" width="800" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_05.png" width="800" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_06.png" width="800" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_07.png" width="800" /><br/>
+
 
 
 
