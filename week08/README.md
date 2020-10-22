@@ -33,6 +33,7 @@ It was very interesting to explore some features like that. It reminded me of a 
 ***After the class...***<br/>
 I actually experimented it by myself again, whether I could take some sounds from nature(e.g. wind sound, tree sound or birds etc...). I thought it would be interesting to see if wind noise or some noise by tree leaves or birds chattering could transfer into 'human language system', but it didn't work. The dictator sketch couldn't get any noise from outside. Maybe the noise wansn't loud enough.. or there's no letter that matches to those noises.<br/>
 <br/>
+<br/>
 
 ## Case study - inspiration of the week02
 <img src="https://hunoong.github.io/slave2-A/Images/howareyou.jpg" width="450" /> <img src="https://hunoong.github.io/slave2-A/gifs/RPReplay_Final1603203258.gif" width="450" /><br/>
