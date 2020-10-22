@@ -60,6 +60,8 @@ So after the class I changed my work area from Web Editor to Local. Thankfully, 
 >>By deleting ***<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"> </script> and <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"> </script> on my index.*** <br/>
 
 >>I only left ***<script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"> </script>*** this part on the index.<br/>
+<br/>
+
 It was very weird that the sketch did not work when I deleted those two libraries on Web Editor. But it's now working on my local sketch.<br/>
 <br/>
 
