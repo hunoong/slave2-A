@@ -16,7 +16,7 @@ I also explored different camera output functions using ["Epoccam"](https://www.
 And then I made a quick sketch of transparent rectangle to see whether I can make a tool to hide webcam or not.(*the second image*)<br/>
 <br/>
 Then, I made the idea sketch more concise and underdtandable to guide not only myself but also to convey the idea to others easily for advice.<br/>
-<img src="https://hunoong.github.io/slave2-A/Images03/week08_.png" width="700" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week08_.PNG" width="700" /><br/>
 
 
 
