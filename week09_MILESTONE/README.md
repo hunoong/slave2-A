@@ -13,14 +13,14 @@ I was not sure how I can draw things over the camera as the detection area kept 
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_10.png" width="450" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_11_milestone.gif" width="450" /> <br/>
 The name of my project is ‘Bird Tracker’ and the subtitle of it is ‘the beauty of the eaten path.’<br/>
 My project will be carried out in two major parts. **1) The code for detecting motion 2)The code for drawing based on movement.**<br/>
-<br/>
-<img src="https://hunoong.github.io/slave2-A/Images03/week09_15.png" width=450" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_15.png" width="300" />
 
+<br/>
 And over the past few weeks I’ve decided what program and library to use. I ended up using p5.js and ML5 Library. And I was able to connect my iPhone as a webcam by using Epoccam and p5js. Once identified how to import ML5 library and COCO SSD, I was able to detect objects through p5.js. So I went outside and started exploring more with this library.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_09.png" width="300" />
 <br/>
 The object detector detected objects pretty well so I thought there’s no issue in tracking birds. But I think because of the resolution of the camera and the distance between the camera and birds, it didn’t end up tracking birds that well. There were only three times that birds were detected correctly out of 25 times that birds showed up. Except for those three times, the rest were detected as sheep or sports balls.<br/>
-<img src="https://hunoong.github.io/slave2-A/Images03/week09_12.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_13.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_14.png" width="300" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_12.png" width="280" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_13.png" width="340" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_14.png" width="280" /><br/>
 <br/>
 So I went out to the park to get a close distance, but somehow there were literally no birds in the park. So I ended up detecting other things. It detected a person and his dog pretty well. Obviously not 100%, but it seemed like the background didn’t interrupt the objects. Then I came back to my place and sowed some seeds on the path rather than on the grass and waited for a few minutes. It detected the bird quite well even though at the end it detected it as a human.<br/>
 
