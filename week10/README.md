@@ -44,8 +44,7 @@ While working on my stuff, I found a tiny movement in the middle of my 23.8 inch
 So I looked it carefully and it was a tiny worm that tries to find its way!<br/>
 I have no idea why it decided to across this wide screen and I was so fascinated by its small decisions.<br/>
 I decided to film it with my micro lens(Sorry for the dirts on my screen, but you can't really see the dirts with your eyes as they are tiny).<br/>
-<img src="https://hunoong.github.io/slave2-A/gifs/week10_worm01.gif" width="150" /><br/>
-<img src="https://hunoong.github.io/slave2-A/gifs/week10_worm02.gif" width="150" /><br/>
+<img src="https://hunoong.github.io/slave2-A/gifs/week10_worm01.gif" width="200" /> <img src="https://hunoong.github.io/slave2-A/gifs/week10_worm02.gif" width="200" /><br/>
 And then I tried to visualise its 'Algorithminc instinct movement'. Blue stroke is its path and red dots are its decision making spots. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/worm02_path_decision.png" width="400" /><br/>
 I was just surprised that I found it on my screen and that it was similar to what I am currently working on for my project. <br/>
