@@ -21,7 +21,32 @@ While working on this, I also made another *'Back up plan'* which is *'Birds vid
 
 ## Current Stage - Coding
 During the week I had some questions in related to 'Showing detection results' & 'Making detection area appear on the second canvas'.<br/>
-<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_04.png" width="800" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_05.png" width="800" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_06.png" width="800" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_07.png" width="800" /><br/>
+><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_04.png" width="800" />
+><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_05.png" width="800" />
+><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_06.png" width="800" />
+><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_07.png" width="800" /><br/>
+After getting feedback from Karen, I was able to make results showing on the screen as well as detection on the second canvas.<br/>
+>What I had to insert was :
+> console.log(results); <br/>
+> for (var r=0; r<results.length; r++){ <br/>
+    text(results[0].label, 250, 100+20*r); //(x,y,spacing,r=numbers of label) <br/>
+
+Something like this.<br/>
+And for the second canvas issue, I was able to fix it by adding 'extraCanvas(my set variable)' infront of every elements that need to be on the second canvas.<br/>
+>extraCanvas.stroke(random(250),random(100,240));
+    extraCanvas.noFill();
+    extraCanvas.ellipse(detection.x+detection.width/2,detection.y+detection.height/2,3,3); <br/>
+    
+Something like this.<br/>
+<br/>
+<br/>
+>> **The process of resolving** <br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_08.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_09.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_10.png" width="300" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_11.gif" width="800" /> <br/>
+
+>> **The process of Development** <br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_12.png" width="400" /><img src="https://hunoong.github.io/slave2-A/Images_week11/week11_13.png" width="400" />
+>> <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_15.png" width="800" />
 
 
 
