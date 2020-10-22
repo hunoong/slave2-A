@@ -28,6 +28,7 @@ We learned how to add external libraries into our sketches, and we went through 
 We also went through another tutorial using p5.js sound library.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week08_06.gif" width="350" /><img src="https://hunoong.github.io/slave2-A/Images03/week08_07.gif" width="350" /> <br/>
 It was very interesting to explore some features like that. It reminded me of a dictation function on my iPhone or Apple watch.<br/>
+<br/>
 
 ***After the class...***<br/>
 I actually experimented it by myself again, whether I could take some sounds from nature(e.g. wind sound, tree sound or birds etc...). I thought it would be interesting to see if wind noise or some noise by tree leaves or birds chattering could transfer into 'human language system', but it didn't work. The dictator sketch couldn't get any noise from outside. Maybe the noise wansn't loud enough.. or there's no letter that matches to those noises.<br/>
