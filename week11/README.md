@@ -52,7 +52,7 @@ Something like this.<br/>
 <br/>
 <br/>
 
-## Interesting Foundings 01
+## Interesting Findings 01
 During my painting elective class, I was discussing with my tutor about my final project for painting. Among suggested topics, I was interested in 'Interpreting Nature' topic & 'Observing Everyday - painters as observers' topic. And I explained my current studio project to my tutor that I'm currently working on capturing algorithmic movements of birds. And I said I wanted to focus on dead birds(roadkilled) that I've seen recently and interpret them into my painting project. By the time when I was explaining about my studio and my final project for painting class, I think I wanted to connect both of my practices together which are very diffrent to each other but somehow connected. <br/>
 <br/>
 I realised this because my tutor pointed out that I'm trying to connect them together. ***So actually I have already been working on 'Interpreting the nature' and 'Myself working as the observer to capture everyday moments' for my studio class, and I was planning to work on 'Failing Algorithms' or 'Interrupted Algorithms' by conveying the idea of painting dead birds.***<br/>
@@ -67,12 +67,13 @@ It was just fascinating how things look unrelated are somhow connected together 
 <br/>
 <br/>
 
-## Interesting Foundings 02
+## Interesting Finding 02
 On the 6th, my sister gave a birth to her child, Layla and I became an uncle! <br/>
 Next day, she wanted me to search about day counting apps or ways to show the day counts on iPhone. <br/>
 So I looked it up, and I found that you can customise your day counts with the Apple app 'Shorcuts'.<br/>
 This seemed like an easy version of coding and it reminded me of Pseudocode that we did.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple01.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images02/shortcuts_apple02.PNG" width="200" /><img src="https://hunoong.github.io/slave2-A/Images_week11/shortcuts_apple_03.png" width="200" /><img src="https://hunoong.github.io/slave2-A/Images_week11/shortcuts_apple_04.png" width="200" />
+<br/>
 <br/>
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
