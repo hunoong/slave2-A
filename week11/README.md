@@ -10,7 +10,7 @@ And I thought it would be nice if I can watch some birds coming right in front o
 I knew that it takes time to get their attentions, so once you put some seeds, you need to wait for them to find these treats. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding02.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding01.png" width="500" /> <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_03.gif" width="300" />
-<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_00.png" width="300" />  <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_02.jpg" width="300" />
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_00.png" width="250" />  <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_02.jpg" width="250" />
 <br/>
 And because they are super sensitive, I had to be careful not to surprise them.<br/>
 After few days, sparrows are the first ones found the seeds on my balcony table. I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. And then once my balcony got popular, more birds were visiting.<br/>
@@ -59,7 +59,7 @@ I realised this because my tutor pointed out that I'm trying to connect them tog
 <br/>
 And then the tutor asked me to have a look at 'So Le Witt' which we covered in week two ! <br/>
 <br/>
-<img src="https://hunoong.github.io/slave2-A/Images02/so%20le%20witt.png" width="785" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images02/so%20le%20witt.png" width="800" /> <br/>
 // *[So Le Witt - Google search](https://www.google.com/search?q=so+le+witt&rlz=1C5CHFA_enAU894AU894&sxsrf=ALeKk01gIi0uPnunNUWnQy9fq2LIqGt1lw:1601858450856&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR_8Xfm5zsAhVKeX0KHTsFCskQ_AUoAXoECBYQAw&biw=2048&bih=1018)* <br/>
 <br/>
 It was just fascinating how things look unrelated are somhow connected together and I felt so nice when I discovered this and made the connection between classes as my personal manifesto is *'Always observe. It connects unconnected pieces, and leads to a chain of knowledge.'*. and I feel like I'm doing it right and following my motto.
