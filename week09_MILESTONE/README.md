@@ -1,8 +1,55 @@
-# Week 09 [25.09.20] Milestone
-###### [[click here to check Milestone Sketch folder]](https://github.com/hunoong/slave2-A/tree/master/week09_MILESTONE)
-## During the week...
-Explored
+## Over the week...
+I experimented sketches and tried to combine 'ML5 Object detection sketch' and '[Drawing sketch-'Doodle Vector'](https://github.com/karenanndonnachie/Slave-To-The-Algorithm/tree/master/P5js/doodleVector_P5js)' together.
+I was not sure how I can draw things over the camera as the detection area kept disapearing.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_0.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_1.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_2.png" width="300" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_3.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_4.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_5.png" width="300" /><br/>
 <br/>
+<br/>
+
+# Week 09 [25.09.20] Milestone Review - 1min presentation
+###### [[click here to check Milestone Sketch folder]](https://github.com/hunoong/slave2-A/tree/master/week09_MILESTONE)
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_detection.png" width="450" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_11_milestone.gif" width="450" /> <br/>
+The name of my project is ‘Bird Tracker’ and the subtitle of it is ‘the beauty of the eaten path.’<br/>
+My project will be carried out in two major parts. **1) The code for detecting motion 2)The code for drawing based on movement.**<br/>
+<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_09_15.png" width=450" /> <br/>
+
+And over the past few weeks I’ve decided what program and library to use. I ended up using p5.js and ML5 Library. And I was able to connect my iPhone as a webcam by using Epoccam and p5js. Once identified how to import ML5 library and COCO SSD, I was able to detect objects through p5.js. So I went outside and started exploring more with this library.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_09.png" width="300" />
+<br/>
+The object detector detected objects pretty well so I thought there’s no issue in tracking birds. But I think because of the resolution of the camera and the distance between the camera and birds, it didn’t end up tracking birds that well. There were only three times that birds were detected correctly out of 25 times that birds showed up. Except for those three times, the rest were detected as sheep or sports balls.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_12.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_13.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_14.png" width="300" /><br/>
+<br/>
+So I went out to the park to get a close distance, but somehow there were literally no birds in the park. So I ended up detecting other things. It detected a person and his dog pretty well. Obviously not 100%, but it seemed like the background didn’t interrupt the objects. Then I came back to my place and sowed some seeds on the path rather than on the grass and waited for a few minutes. It detected the bird quite well even though at the end it detected it as a human.<br/>
+
+<br/>
+My next step is
+Figuring out better detection and how I can connect the drawing feature while the birds are being detected. I was able to draw on the web cam while detecting myself, but I just don’t know how to connect them together automatically.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_016.png" width="450" /> <br/>
+<br/>
+<br/>
+
+###### Feedback :
+Karen suggested me to use a second canvas for detection and camera capture(mapping it into a second canvas.). Also, I just need to find the right path way to get the data point for connecting detection area as a brush. She also mentioned that the idea of getting a wrong detection is interesting.<br/>
+<br/>
+I think I need to consider whether I will embrace ‘Happy Accident : weird detection’ or not if the sketch is not working properly.<br/>
+<br/>
+<br/>
+
+## After class...
+I asked about two things 1)How to change the detection into a brush
+<br/>
+So I wanted to make brushes while obejects are being detected, and I realised the thing that I didn't understand was <coordinates are different from the shape>. It is really basic stuff, and it applies to my sketch as well. All I had to change was ***'rect(detection.x, detection.y, detection.width, detection.height)'*** to *'ellipse(**detection.x+detection width/2**, **detection.y+detection.height/2**, value, value)'*.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_detection.png" width="450" />
+<br/>
+<br/>
+
+## Issue on working locally
+So after the class I changed my work area from Web Editor to Local as I also got a feedback that it would be better to work on locally. But there was a problem that the sketch wasn't opening. I was struggling to solve this problem. After spending quite a bit of time, by deleting ***<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script> and <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script> on my index.*** <br/>
+I only left ***  <script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"></script> *** this part on the index.<br/>
+It was very weird that the sketch did not work when I deleted those two libraries on Web Editor. But it's now working on my local sketch.<br/>
+<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_06_issue.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_07_solved.png" width="300" /><br/>
 <br/>
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
