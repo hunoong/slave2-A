@@ -1,8 +1,8 @@
 # Week 09 [25.09.20]
 ## Over the week...
 I experimented sketches and tried to combine 'ML5 Object detection sketch' and ['Drawing sketch-'Doodle Vector'](https://github.com/karenanndonnachie/Slave-To-The-Algorithm/tree/master/P5js/doodleVector_P5js) together.
-
 I was not sure how I can draw things over the camera as the detection area kept disapearing.<br/>
+<br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_01.png" width="600" /> <img src="https://hunoong.github.io/slave2-A/Images03/week09_02.png" width="300" /> <br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_04.png" width="450" /> <img src="https://hunoong.github.io/slave2-A/Images03/week09_05.png" width="450" /> <br/>
 <br/>
