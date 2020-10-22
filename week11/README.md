@@ -1,6 +1,7 @@
 # Week 11 [09.10.20] 
 ###### [[>click here to check week11 WIP sketch folder<]](https://github.com/hunoong/slave2-A/tree/master/week11_WIP_Sketch)
-## Current Stage - Experiment of the week
+
+## Current Stage - Birds feeding
 During the week, I wanted to test out some birds feeding experiments. <br/>
 <br/>
 When I was struggling to improve the quality of detection camera the other day as the detector couldn't track the birds well in a far distance, a dove came to my balcony and I saw it resting on the fence.
@@ -8,7 +9,7 @@ When I was struggling to improve the quality of detection camera the other day a
 And I thought it would be nice if I can watch some birds coming right in front of my desk, so that I could test out the 'ML5 Detector' whether it can detect them well or not.<br/>
 I knew that it takes time to get their attentions, so once you put some seeds, you need to wait for them to find these treats. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding02.png" width="280" /> <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding01.png" width="500" /> <br/>
-<img src="https://hunoong.github.io/slave2-A/gifs/birds_feeding03" width="785" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week11_week11_03.gif" width="150" /> <br/>
 And because they are super sensitive, I had to be careful not to surprise them.<br/>
 After few days, sparrows are the first ones found the seeds on my balcony table. <br/>
 I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. <br/>
