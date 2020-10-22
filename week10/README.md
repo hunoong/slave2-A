@@ -18,6 +18,13 @@ I couldn't solve the problem that I mentioned earlier, so I decided to use the s
 <img src="https://hunoong.github.io/slave2-A/Images03/WK10_WIP_Capture_11.png" width="450" /><img src="https://hunoong.github.io/slave2-A/Images03/WK10_WIP_Capture_12.png" width="450" /><br/>
 This is my current stage at the moment(on the 4th of October). I was able to put some texts at the back while drawing shapes on the second canvas in the middle of the screen. // Reference : [The Coding Train - 2.6: createGraphics()](https://www.youtube.com/watch?v=TaluaAD9MKA&ab_channel=TheCodingTrain) <br/>
 <br/>
+
+>###### Feedback from Andy and Karen after class
+>I didn't think I'd suddenly get such nice and encouraging words from my tutors. They said it’s very difficult to find young designers that have that kind of sensibility for new media art. And also said that it's nice this ideal of non human drawing. It’s very sensitive and contemporary. <br/>
+
+I was quite shocked(on the good side) and this was a great driving force for me to continue to believe in myself and believe in the essence(or the topic I chose?). 
+
+<br/>
 <br/>
 
 ## Interesting Findings 01 - Birthday Pseudocode
