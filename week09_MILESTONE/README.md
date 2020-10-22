@@ -32,15 +32,14 @@ I think I need to consider whether I will embrace ‘Happy Accident : weird dete
 <br/>
 <br/>
 
-##### What's next?
+#### What's next?
 ***Current issues that I am having are :*** <br/>
-1) Figuring out the right path way to make my sketch draw while objects are being detected, also while the web cam is running.
-- To solve this, I am experimenting ‘Second Canvas’ function.<br/>
+1) Figuring out the right path way to make my sketch draw while objects are being detected, also while the web cam is running.<br/>- To solve this, I am experimenting ‘Second Canvas’ function.<br/>
 <br/>
-2) Many linked files problem
-- To solve this, I got feedback to make things ‘locally’ so that only essential things can be linked.<br/>
+2) Many linked files problem - To solve this, I got feedback to make things ‘locally’ so that only essential things can be linked.<br/>
 <br/>
-***Possible next steps are :***<br/>
+
+***Possible next steps are :*** <br/>
 1) Embracing wrong detection and make it into a part of art piece. Or multiple canvas can create different generative path of arts<br/>
 2) Refined textures and brushes<br/>
 3) Random colouring on crossed area<br/>
