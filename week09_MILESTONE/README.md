@@ -51,7 +51,7 @@ So after the class I changed my work area from Web Editor to Local as I also got
 I only left ***<script src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js" type="text/javascript"> </script>*** this part on the index.<br/>
 It was very weird that the sketch did not work when I deleted those two libraries on Web Editor. But it's now working on my local sketch.<br/>
 <br/>
-<img src="https://hunoong.github.io/slave2-A/Images03/week09_06_issue.png" width="300" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_07_solved.png" width="600" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_06_issue.png" width="450" /><img src="https://hunoong.github.io/slave2-A/Images03/week09_07_solved.png" width="450" /><br/>
 <br/>
 <br/>
 
