@@ -1,4 +1,10 @@
 # Week 07 [11.09.20] 
+## During the week...
+After experimenting different softwares in week 6 and mid-semester break, I decided to use p5.js for the project.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week07.png" width="300" /> <br/>
+*(This image was taken on the 10th of September, experimenting 'Capturing Background' in Processing OpenCV by using Windows 10 Bootcamp.)*
+<br/>
+<br/>
 
 ## One Minute Presentation
 <img src="https://hunoong.github.io/slave2-A/Images02/Screen%20Shot%202020-09-14%20at%2011.04.08%20pm.png" width="800" /> <br/>
