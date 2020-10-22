@@ -14,7 +14,7 @@ I was not sure how I can draw things over the camera as the detection area kept 
 The name of my project is ‘Bird Tracker’ and the subtitle of it is ‘the beauty of the eaten path.’<br/>
 My project will be carried out in two major parts. **1) The code for detecting motion 2)The code for drawing based on movement.**<br/>
 <br/>
-<img src="https://hunoong.github.io/slave2-A/Images03/week09_09_15.png" width=450" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images03/week09_15.png" width=450" /> <br/>
 
 And over the past few weeks I’ve decided what program and library to use. I ended up using p5.js and ML5 Library. And I was able to connect my iPhone as a webcam by using Epoccam and p5js. Once identified how to import ML5 library and COCO SSD, I was able to detect objects through p5.js. So I went outside and started exploring more with this library.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_09.png" width="300" />
