@@ -9,8 +9,8 @@ When I was struggling to improve the quality of detection camera the other day a
 And I thought it would be nice if I can watch some birds coming right in front of my desk, so that I could test out the 'ML5 Detector' whether it can detect them well or not.<br/>
 I knew that it takes time to get their attentions, so once you put some seeds, you need to wait for them to find these treats. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding02.png" width="280" /> <img src="https://hunoong.github.io/slave2-A/Images02/birds_feeding01.png" width="500" /> <br/>
-<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_03.gif" width="400" /> <br/>
-<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_00.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_01.png" width="300" /> <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_02.jpg" width="300" />
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_03.gif" width="300" />
+<img src="https://hunoong.github.io/slave2-A/Images_week11/week11_00.png" width="300" />  <img src="https://hunoong.github.io/slave2-A/Images_week11/week11_02.jpg" width="300" />
 And because they are super sensitive, I had to be careful not to surprise them.<br/>
 After few days, sparrows are the first ones found the seeds on my balcony table. <br/>
 I made them frightened several times before, so I don't think I can track them any time soon, now I just need them to be feel safe so that I can track them later. <br/>
