@@ -30,7 +30,6 @@ Karen suggested me to use a second canvas for detection and camera capture(mappi
 <br/>
 I think I need to consider whether I will embrace ‘Happy Accident : weird detection’ or not if the sketch is not working properly.<br/>
 <br/>
-<br/>
 
 ###### What's next?
 >***Current issues that I am having are :*** <br/>
