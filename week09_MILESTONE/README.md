@@ -39,7 +39,7 @@ I think I need to consider whether I will embrace ‘Happy Accident : weird dete
 <br/>
 
 ## After class...
-I asked about two things 1)How to change the detection into a brush
+I asked about 'How to change the detection into a brush'
 <br/>
 So I wanted to make brushes while obejects are being detected, and I realised the thing that I didn't understand was <coordinates are different from the shape>. It is really basic stuff, and it applies to my sketch as well. All I had to change was ***'rect(detection.x, detection.y, detection.width, detection.height)'*** to *'ellipse(**detection.x+detection width/2**, **detection.y+detection.height/2**, value, value)'*.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images03/week09_detection.png" width="450" />
