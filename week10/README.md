@@ -20,9 +20,9 @@ This is my current stage at the moment(on the 4th of October). I was able to put
 <br/>
 
 >###### Feedback from Andy and Karen after class
->I didn't think I'd suddenly get such nice and encouraging words from my tutors. They said it’s very difficult to find young designers that have that kind of sensibility for new media art. And also said that it's nice this ideal of non human drawing. It’s very sensitive and contemporary. <br/>
+>I didn't think I'd suddenly get such nice and encouraging words from my tutors. They said it’s very difficult to find young designers that have that kind of sensibility for new media art. And also said that it's nice this ideal of non human drawing. It’s very sensitive and contemporary.
 
-I was quite shocked(on the good side) and this was a great driving force for me to continue to believe in myself and believe in the essence(or the topic I chose?). 
+>I was quite shocked(on the good side) and this was a great driving force for me to continue to believe in myself and believe in the essence(or the topic I chose?). 
 
 <br/>
 <br/>
