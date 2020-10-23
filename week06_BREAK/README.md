@@ -24,11 +24,11 @@ At the same time, I also explored basic Python OpenCv and OpenCV for detection(t
 And I also wanted to know whether the Mac webcam is working on Python or not(it did work).<br/>
 First, I learned some basic functions from [Python Tutorial - Python for Beginners by Programming with Mosh on Youtube](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLkYK-w4inUUwaAY_1CARjUsuAfgAWvrCY&index=29&t=318s&ab_channel=ProgrammingwithMosh)<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python02_basic_python_ex.png" width="500" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python03_basic_python_ex_cmd+click = show function.png" width="500" /> <br/>
-*(The bottom image is showing 'cmd+click' that shows the function of the language.)*<br/>
+*(The second image is showing 'cmd+click' that shows the function of the language.)*<br/>
 <br/>
 Also, I found many articles and tutorials that try to detecting objects or animals by using Open CV. I went through tutorials mostly on Youtube.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/tutorials.png" width="500" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python01_webcam_launch_exercise.png" width="500" /><br/>
-*(The bottom image is showing how I imported libraries and video capture.)*<br/>
+*(The second image is showing how I imported libraries and video capture.)*<br/>
 <br/>
 Some of the object detection tutorials I followed are by <br/>
 - [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)<br/>
@@ -47,7 +47,7 @@ And if I can track objects, and animals, maybe I could combine drawing features 
 ## Python - OpenCV Practice
 I practiced by it myself as well, testing things out and faced the problem and solved it via going throught some forums...<br/>
 <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python05_motion_tracking_근데 안쓸거임 이거.png" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images02/python_tutorial_gif.gif" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images02/Break_Python04_issue_resolved.png" width="400" /> <br/>
-*(The bottom image is showing that I was trying to solve the issue <Qt Platform plugin "cocoa" not found error>)* <br/>
+*(The third image is showing that I was trying to solve the issue <Qt Platform plugin "cocoa" not found error>)* <br/>
 <br/>
 <br/>
 
