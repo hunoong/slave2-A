@@ -30,13 +30,12 @@ But I used 'One main brush' that has some random values in for 'Birds' instead. 
 by aferriss](https://editor.p5js.org/aferriss/sketches/Bk-TfPNlQ). Also, I added my custom brushes so that it can be shown randomly every time I launch the program. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_03.png" width="120" /><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_04.png" width="120" /><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_05.png" width="120" /><br/>
 <br/>
-For bird video back up, I tested it first with Youtube videos whether the program could track birds if I show it by using iPad. I turned on the video and made my iPad and Mac face each other and started the program.<br/>
+For bird video back up, I tested it first with Youtube videos whether the program could track birds if I show it by using iPad. I turned on the video and made my iPad and Mac face each other and started the program. And yes it did its job.<br/>
 >###### Testing detections by using Youtube videos.
 ><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_07.png" width="400" /> <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_08.png" width="400" /> <br/>
-
-And yes it did its job. Next step was filming birds on my balcony. <br/>
+<br/>
+Next step was filming birds on my balcony. And it worked. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_09.gif" width="400" /> <br/>
-And it worked.<br/>
 <br/>
 <br/>
 
