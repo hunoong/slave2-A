@@ -60,6 +60,8 @@ And this is the final outcome of my final project.<br/>
 <br/>
 
 ## Reflection
+<img src="https://hunoong.github.io/slave2-A/Images_week12/programming00.jpg" width="300" /> ["How we write/review code in big tech companies"](https://www.youtube.com/watch?v=rR4n-0KYeKQ&ab_channel=JomaTech) <br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week12/programming.png" width="1000" /> <br/>
 Lastly, I don't think this project is incredibly refined, but it's still a very proud project for me. I am happy that I have learned a series of problem-solving processes and made results. There are so many things I have learned through this.<br/>
 <br/>
 Obviously, there were quite a bit of difficulties in between and I was embarrassed because I didn't know how to solve them. And I didn't know how to question, and who to ask for help. But I could solve many things with the help of my friends and teachers. When I couldn't figure out how to do it, I remembered what my teacher said when I was in year one. I rested often whenever I stuck. So many ideas and backup plans popped up before go to bed, while taking a shower and even while washing dishes. I could see from a different perspective through relaxtion. And I trusted myself a little more. I decided to believe in myself rather than being harsh to myself. Sometimes if I ended up entering a dead end, I chose to go back. And I think we sometimes need detouring and sometimes you face a happy accident while detouring. <br>
