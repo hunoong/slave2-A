@@ -44,7 +44,9 @@ Maybe it was due to the library that I imported and it may have needed some time
 (Also I solved some slowy and laggy issue by limiting frame rates!)<br/>
 Weirdly, the problem got solved by leaving the tab open and opening the new tab.. maybe it wasn't the answer to solve this crash but it worked, and it was very easy but effective. After the camera shows up and it's working, all you need to do is just close of the tabs. Easy Peasy. <br/>
 So I made a small error text for users who may get frustrated.<br/>
-<img src="https://hunoong.github.io/slave2-A/Images_week12/week12_06.png" width="400" /> <br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week12/week12_06.png" width="600" /> <br/>
+<br/>
+<br/>
 
 ## Final Outcome
 And this is the final outcome of my final project.<br/>
@@ -54,6 +56,15 @@ And this is the final outcome of my final project.<br/>
 ><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_11.png" width="1000" /> <br/>
 >###### Possible poster outcome in exhibition↓
 ><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_12.png" width="1000" /> <br/>
+<br/>
+<br/>
+
+## Reflection
+Lastly, I don't think this project is incredibly refined, but it's still a very proud project for me. I am happy that I have learned a series of problem-solving processes and made results. There are so many things I have learned through this.<br/>
+<br/>
+Obviously, there were quite a bit of difficulties in between and I was embarrassed because I didn't know how to solve them. And I didn't know how to question, and who to ask for help. But I could solve many things with the help of my friends and teachers. When I couldn't figure out how to do it, I remembered what my teacher said when I was in year one. I rested often whenever I stuck. So many ideas and backup plans popped up before go to bed, while taking a shower and even while washing dishes. I could see from a different perspective through relaxtion. And I trusted myself a little more. I decided to believe in myself rather than being harsh to myself. Sometimes if I ended up entering a dead end, I chose to go back. And I think we sometimes need detouring and sometimes you face a happy accident while detouring. <br>
+<br/>
+At first I doubted(not in a negative way) what this studio had to do with me and what I could learn and get from it. Doubt is something I think is important in the learning process, so I wouldn't blame myself. However, contrary to my doubts, many parts were connected to my previous practices especially to the fine art electives that I took earlier. Unlike I thought I just like to draw, I really enjoyed this course and I was so proud that I was able to program and create a 'work' that reflects my thoughts while working on solving problems. I would like to give a compliment to myself in the past when I chose this studio for my first preference and thank the teachers who provided this studio. I also appreciate my friends who supported me.<br>
 <br/>
 <br/>
 
