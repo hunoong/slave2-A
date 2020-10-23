@@ -70,4 +70,4 @@ At first I doubted(not in a negative way) what this studio had to do with me and
 
 ###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
 ###### [to check WEEK 12 SHOWCASE SKETCH FOLDER >](https://github.com/hunoong/slave2-A/tree/master/week12_Showcase)
-###### [to check THE RESOURCES & REFERENCES >](https://hunoong.github.io/slave2-A/slave2-A/week12/References_for_the_program.txt)
+###### [to check THE RESOURCES & REFERENCES >](https://hunoong.github.io/slave2-A/slave2-A/week12/References_for_the program.txt)
