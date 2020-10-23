@@ -1,19 +1,19 @@
 ## Slave to the Algorithm : Studio Knowledge Object
 #### 3653346 Hunjung Lee
-###### SKO navigation
-#### [>Week 1](https://hunoong.github.io/slave2-A/week01/)
-#### [>Week 2](https://hunoong.github.io/slave2-A/week02)
-#### [>Week 3](https://hunoong.github.io/slave2-A/week03)
-#### [>Week 4](https://hunoong.github.io/slave2-A/week04)
-#### [>Week 5](https://hunoong.github.io/slave2-A/week05)
-#### [>Week 6](https://hunoong.github.io/slave2-A/week06)
-#### [>Mid sem break](https://hunoong.github.io/slave2-A/week06_BREAK)
-#### [>Week 7](https://hunoong.github.io/slave2-A/week07)
-#### [>Week 8](https://hunoong.github.io/slave2-A/week08)
-#### [>Week 9 Milestone](https://hunoong.github.io/slave2-A/week09_MILESTONE)
-#### [>Week 10](https://hunoong.github.io/slave2-A/week10)
-#### [>Week 11](https://hunoong.github.io/slave2-A/week11)
-#### [>Week 12 Showcase day](https://hunoong.github.io/slave2-A/week12)
+>###### SKO navigation
+>#### [>Week 1](https://hunoong.github.io/slave2-A/week01/)
+>#### [>Week 2](https://hunoong.github.io/slave2-A/week02)
+>#### [>Week 3](https://hunoong.github.io/slave2-A/week03)
+>#### [>Week 4](https://hunoong.github.io/slave2-A/week04)
+>#### [>Week 5](https://hunoong.github.io/slave2-A/week05)
+>#### [>Week 6](https://hunoong.github.io/slave2-A/week06)
+>#### [>Mid sem break](https://hunoong.github.io/slave2-A/week06_BREAK)
+>#### [>Week 7](https://hunoong.github.io/slave2-A/week07)
+>#### [>Week 8](https://hunoong.github.io/slave2-A/week08)
+>#### [>Week 9 Milestone](https://hunoong.github.io/slave2-A/week09_MILESTONE)
+>#### [>Week 10](https://hunoong.github.io/slave2-A/week10)
+>#### [>Week 11](https://hunoong.github.io/slave2-A/week11)
+>#### [>Week 12 Showcase day](https://hunoong.github.io/slave2-A/week12)
 <br/>
 
 ###### Redirect to [>Week 12 Showcase 'Sketch folder'](https://github.com/hunoong/Hun_Lee/tree/gh-pages/The_Beauty_of_the_Eaten_Path2)
