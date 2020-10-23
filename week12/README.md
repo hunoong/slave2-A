@@ -24,7 +24,8 @@ I had to go with my back up plans.<br/>
 > - Using just **'one brush'** for **'each label'** rather than making **'multiple brushes'** for **'each detection'**. 
 
 So my original plan which was using different brushes for each birds to make different path ways ***(Inspired by a work by Dora Lazeravic)***, was dumped.<br/>
-<img src="https://hunoong.github.io/slave2-A/Images_week12/Dora_Lazeravic 2.jpeg" width="400" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week12/Dora_Lazeravic 2.jpeg" width="200" /><br/>
+<br/>
 But rather use 'One main brush' that has some random values in for 'Birds'. I put some random values for rectangles and ellipses by using [Air Brush
 by aferriss](https://editor.p5js.org/aferriss/sketches/Bk-TfPNlQ). Also, I added my custom brushes so that it can be shown randomly every time I launch the program. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_03.png" width="120" /><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_04.png" width="120" /><img src="https://hunoong.github.io/slave2-A/Images_week12/week12_05.png" width="120" /><br/>
