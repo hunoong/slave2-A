@@ -60,7 +60,8 @@ And this is the final outcome of my final project.<br/>
 <br/>
 
 ## Reflection
-<img src="https://hunoong.github.io/slave2-A/Images_week12/programming00.jpg" width="300" /> ["How we write/review code in big tech companies"](https://www.youtube.com/watch?v=rR4n-0KYeKQ&ab_channel=JomaTech) <br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week12/programming00.jpg" width="300" /> ["How we write/review code in big tech companies" by Joma Tech
+ on Youtube](https://www.youtube.com/watch?v=rR4n-0KYeKQ&ab_channel=JomaTech) <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/programming.png" width="1000" /> <br/>
 Lastly, I don't think this project is incredibly refined, but it's still a very proud project for me. I am happy that I have learned a series of problem-solving processes and made results. There are so many things I have learned through this.<br/>
 <br/>
