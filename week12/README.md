@@ -6,7 +6,7 @@ Last week, I got some feedback to use 'Classes' for my sketch as I was having so
 Thanks to Michael, I was able to show some ellipese on the screen.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_02.png" width="400" /><br/>
 If I can make dots appear on the screen, that menas I can be able to connect detection(=brush) with dots(=classes) together. But I just don't know the right path way to attach them together. <br/>
-<img src="https://hunoong.github.io/slave2-A/Images_week12/week12_00.png" width="400" /><br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week12/week12_00.jpeg" width="400" /><br/>
 So I decided to start the sketch from the scratch with using Classes.<br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_01.png" width="400" /> <br/>
 After spending lots of time to sort it out, I was able to make it appeared while being detected.(It shows the movement as the 'random move' was on)<br/>
