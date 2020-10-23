@@ -1,4 +1,4 @@
-# RESOURCES
+ALL THE RESOURCES FOR THIS PROGRAM
 
 p5.js 
 p5.js Library
@@ -36,7 +36,8 @@ cocodataset/cocoapi
 https://github.com/cocodataset/cocoapi
 
 
-###YOUTUBE
+
+[YOUTUBE]
 
 THE CODING TRAIN YOUTUBE CHANNEL
 Playlist - Code! Programming with p5.js
@@ -75,7 +76,8 @@ BY MAGIC MONK
 p5.js How to display text menu before game starts
 
 
-###GITHUB
+
+[GITHUB]
 
 karenanndonnachie/Slave-To-The-Algorithm
 https://github.com/karenanndonnachie/Slave-To-The-Algorithm/tree/master/P5js
@@ -93,7 +95,8 @@ murtazahassan/OpenCV-Python-Tutorials-and-Projects
 https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects
 
 
-###WEB EDITOR
+
+[WEB EDITOR]
 
 Brushes by aferriss
 Rainbow brush
