@@ -1,5 +1,6 @@
 # Week 09 [25.09.20]
 ###### [[>click here to check week09 sketch folder<]](https://github.com/hunoong/slave2-A/tree/master/week09_MILESTONE)
+###### [< MAIN PAGE](https://hunoong.github.io/slave2-A/)
 
 ## Over the week...
 I experimented sketches and tried to combine 'ML5 Object detection sketch' and ['Drawing sketch-'Doodle Vector'](https://github.com/karenanndonnachie/Slave-To-The-Algorithm/tree/master/P5js/doodleVector_P5js) together.
