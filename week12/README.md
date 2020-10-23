@@ -38,6 +38,13 @@ Next step was filming birds on my balcony. And it worked. <br/>
 <img src="https://hunoong.github.io/slave2-A/Images_week12/week12_09.gif" width="400" /> <br/>
 <br/>
 <br/>
+## Issue
+After solving most of problems, there still one issue left which was the program sometimes wasn't working(the camera wasn't showing up) and was very slow.<br/>
+Maybe it was due to the library that I imported and it may have needed some time to warm up. Or there was some crash on codes. I don't know why but after spending some time to figure this out, I somehow got a temporary but effective solution for this, **"Opening a new tab"**. <br/>
+(Also I solved some slowy and laggy issue by limiting frame rates!)<br/>
+Weirdly, the problem got solved by leaving the tab open and opening the new tab.. maybe it wasn't the answer to solve this crash but it worked, and it was very easy but effective. After the camera shows up and it's working, all you need to do is just close of the tabs. Easy Peasy. <br/>
+So I made a small error text for users who may get frustrated.<br/>
+<img src="https://hunoong.github.io/slave2-A/Images_week12/week12_06.png" width="400" /> <br/>
 
 ## Final Outcome
 And this is the final outcome of my final project.<br/>
